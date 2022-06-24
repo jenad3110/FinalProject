@@ -1,6 +1,7 @@
 package SwappaWebSite;
 
-import SwaggaPages.SellPage;
+import SwappaPages.HomePage;
+import SwappaPages.SellPage;
 import base.CommonAPI;
 import org.testng.annotations.Test;
 
@@ -13,6 +14,7 @@ public class SellPageTest extends CommonAPI {
     public void TestSELLBtn(){
 
         SellPage sellPage = new SellPage(getDriver());
+        HomePage homePage = new HomePage(getDriver());
         sellPage.ClickOnSellBtn(getDriver());
 
 

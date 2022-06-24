@@ -1,0 +1,12 @@
+Add to cart , boolean for assertion
+Camerastest, Explicite Wait + assertion , test cases inactif
+HelpSection., interactable assertion
+
+HomePage Clickwith JS
+homepage switch to new frame
+assertTrue
+
+login page assert with getting different error text
+loginpage switch to new page explicite wait  and assertion of the title of the new page
+
+ReadFromExcel in SearchBarPage

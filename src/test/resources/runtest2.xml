@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Applications smoke">
+    <parameter name="useCloudEnv" value="true"/>
+    <parameter name="envName" value="browserstack"/>
+    <parameter name="os" value="windows"/>
+    <parameter name="osVersion" value="11"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="99"/>
+    <parameter name="url" value="https://www.swappa.com"/>
+
+    <test name="Add To Cart Test">
+        <classes>
+            <class name="SwappaWebSite.SearchBarTest"></class>
+        </classes>
+    </test>
+
+
+</suite>
+

@@ -69,6 +69,19 @@
     </test>
 
 
+    <test name="Watches Test">
+        <classes>
+            <class name="SwappaWebSite.WatchesPageTest"></class>
+        </classes>
+    </test>
+
+
+    <test name="Tablets Test">
+        <classes>
+            <class name="SwappaWebSite.TabletsPageTest"></class>
+        </classes>
+    </test>
+
 
 
 

@@ -1,20 +1,20 @@
 package SwappaWebSite;
 
-import SwaggaPages.AddToCartPage;
-import SwaggaPages.HomePage;
+import SwappaPages.AddToCartPage;
 import base.CommonAPI;
-import com.sun.org.apache.bcel.internal.generic.FADD;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class AddToCartTest extends CommonAPI {
 
-    @Test
+ //   @Test
     public void FindAGoodDealBtnInCartSectionTest(){
 
         AddToCartPage addToCartPage = new AddToCartPage(getDriver());
-
         addToCartPage.ClickOnFindAGoodDealInBottomOfCartPage();
-
+        String ExpectedText = "Trending Searches";
+        Assert.assertEquals(addToCartPage.AssertSearchText(),ExpectedText);
 
     }
 
@@ -22,8 +22,9 @@ public class AddToCartTest extends CommonAPI {
     public void OpeningAndClosingCartPage(){
 
         AddToCartPage addToCartPage = new AddToCartPage(getDriver());
-
         addToCartPage.ClosingCartPage();
+        Assert.assertFalse(addToCartPage.ClosingButtonIsClickable());
+        Assert.assertEquals(getPageTitle(),"iPhones For Sale - Swappa");
 
 
     }

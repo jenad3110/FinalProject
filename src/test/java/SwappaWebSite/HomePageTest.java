@@ -1,155 +1,86 @@
 package SwappaWebSite;
 import base.CommonAPI;
-import SwaggaPages.HomePage;
+import SwappaPages.HomePage;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class HomePageTest extends CommonAPI {
 
-
-
-
-
-
-
-    @Test
-
-    public void SelectItemsByImages(){
-
-        HomePage homepage = new HomePage(getDriver());
-        homepage.ClickOnImage(getDriver());
-    }
-
-
-
-
-   @Test
-    public void SwappaLocalBtnTest(){
-
-        HomePage homePage = new HomePage(getDriver());
-
-        homePage.ClickOnSwappaLocal();
-
-    }
-
-   @Test
-    public  void ScrolldownAndClickOnTMobileLogo(){
-
-        HomePage homePage = new HomePage(getDriver());
-
-        homePage.ScrollToViewShopPhonesByCarrier(getDriver());
-
-        waitFor(5);
-
-    }
-
-   @Test
-    public  void ScrolldownAndHoverOverCarriers(){
-
-        HomePage homePage = new HomePage(getDriver());
-
-        homePage.ScrollToViewShopPhonesByCarrier(getDriver());
-        homePage.HoverOverElementInShopPhonesByCarriers(getDriver());
-
-        waitFor(5);
-
-    }
-
-   @Test
-    public  void ScrolldownAndHoverOverItemsOnFeaturedProducts(){
-
-        HomePage homePage = new HomePage(getDriver());
-
-        homePage.ScrollToViewItemsInFeaturedProducts(getDriver());
-        homePage.HoverOverItemsOnFeaturedProducts(getDriver());
-
-        waitFor(5);
-
-    }
-
-   @Test
-    public  void ClickOnItemsOnFeaturedProducts(){
-
-        HomePage homePage = new HomePage(getDriver());
-        homePage.ScrollToViewItemsInFeaturedProducts(getDriver());
-        homePage.ClickOnEachItemOnFeaturedProducts(getDriver());
-
-
-    }
-
-
+    private final Logger LOG = LoggerFactory.getLogger(HomePageTest.class);
 
 
    @Test
 
-    public void BottomMenuFunctionsTest(){
+    public void AccessArticlesMentionningSwappaAtBottomOfThePageTest(){
+
+       LOG.info("Access Articles Mentionning Swappa Test is Processing");
 
         HomePage homePage = new HomePage(getDriver());
 
         homePage.BottomMenu(getDriver());
-       // String GetTitle = getPageTitle();
-        //Assert.assertEquals("Forums, Community Discussion - Swappa",GetTitle);
+
+        Assert.assertEquals(getPageTitle(),"Swappa Press - Swappa");
+        LOG.info("Test Passed");
 
 
     }
 
-    @Test
 
-    public void BottomMenuFunctions2Test(){
+    @Test
+    public void TrustPilotSliderTest(){
+
+        LOG.info("Access TrustPilot Frame Test is Processing");
 
         HomePage homePage = new HomePage(getDriver());
 
-        homePage.BottomMenu2(getDriver());
+        homePage.AccessTrustPilotSection(getDriver());
 
-
-
-
-    }
-    @Test
-    public void CarrousselReviewTest(){
-
-        HomePage homePage = new HomePage(getDriver());
-
-        homePage.TrustPilotSEction(getDriver());
-
-
+        Assert.assertTrue(homePage.TrustPilotElementIsVisible());
+        LOG.info("Test Passed");
     }
 
     @Test
     public void BottomLogoTest(){
 
+        LOG.info("Access Swappa Log At The Bottom Of The Page is Processing");
+
         HomePage homePage = new HomePage(getDriver());
 
         homePage.ClickOnSwappaLogoAtTheBottomOfThePage(getDriver());
 
+        Assert.assertTrue(homePage.LogoAtTheBottomOfThePageIsPresent());
+        LOG.info("Test Passed");
 
     }
 
     @Test
     public void FacebookLogoTest(){
 
+        LOG.info("Access Facebook Logo Test is Processing");
         HomePage homePage = new HomePage(getDriver());
 
         homePage.ClickOnFacebookLogo(getDriver());
 
+        Assert.assertTrue(homePage.FacebookLogoIsPresent());
+        LOG.info("Test Passed");
 
     }
 
     @Test
-    public void B2BExchange(){
+    public void ClickOnB2BExchange(){
+
+        LOG.info("Click On B2B Exchange Test is Processing");
 
         HomePage homePage = new HomePage(getDriver());
 
         homePage.ClickOnB2BExchange(getDriver());
+        Assert.assertEquals(getPageTitle(),"Exchange - B2B Wholesale Marketplace - Swappa");
+        LOG.info("Test Passed");
 
 
     }
-
-
-
-
-
-
 
 
 

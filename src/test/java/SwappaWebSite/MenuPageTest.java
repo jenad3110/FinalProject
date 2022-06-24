@@ -1,7 +1,7 @@
 package SwappaWebSite;
 
-import SwaggaPages.HomePage;
-import SwaggaPages.MenuPage;
+import SwappaPages.HomePage;
+import SwappaPages.MenuPage;
 import base.CommonAPI;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -17,7 +17,8 @@ public class MenuPageTest extends CommonAPI {
         MenuPage    menuPage = new MenuPage(getDriver());
         menuPage.AccessForumSection();
         String GetTitle = getPageTitle();
-        Assert.assertEquals("Forums, Community Discussion - Swappa",GetTitle);
+        Assert.assertEquals(GetTitle,"Forums, Community Discussion - Swappa");
+        TestPassedLOG();
 
 
     }
@@ -30,7 +31,7 @@ public class MenuPageTest extends CommonAPI {
         HomePage homepage = new HomePage(getDriver());
 
         homepage.HoverOverMenu(getDriver());
-        waitFor(2);
+        TestPassedLOG();
 
     }
 

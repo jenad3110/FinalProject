@@ -1,101 +1,248 @@
 package SwappaWebSite;
 
-import SwaggaPages.CamerasPage;
-import SwaggaPages.HomePage;
+import SwappaPages.CamerasPage;
 import base.CommonAPI;
-import javafx.scene.Camera;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class CamerasTest extends CommonAPI {
 
+    private final Logger LOG = LoggerFactory.getLogger(CamerasTest.class);
 
 
     @Test
-    public void HoverOverCameraAndClickOnAllCameras(){
+    public void HoverOverCameraAndClickOnAllCameras() {
 
+        LOG.info("Test HoverOverCameraAndClickOnAllCameras in process");
         CamerasPage camerasPage = new CamerasPage(getDriver());
-        waitFor(2);
         camerasPage.HoverOverCamerasButton(getDriver());
-        waitFor(2);
         camerasPage.ClickOnAllCamerasButton();
-
-
+        String ExpectedPagetitle ="Used Cameras and Lenses - Swappa";
+        Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+        LOG.info("Test Passed");
 
     }
 
+   @Test
+    public void HoverOverAndClickOnActionCamerasUnderCamerasMenu () {
 
-
-    @Test
-    public void ClickOnCamerasThenAllCamerasThenSellBtn(){
-
+       LOG.info("Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process");
         CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.HoverOverCamerasButton(getDriver());
+        camerasPage.HoverOverActionCamerasUnderCamerasMenu(getDriver());
+        camerasPage.ClickOnActionCamerasUnderCamerasMenu();
+        String ExpectedPagetitle ="Used Action Camera deals - Swappa";
+        Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+        LOG.info("Test Passed");
+    }
+    @Test
+    public void HoverOverAndClickOnCanonUnderCamerasMenu () {
 
-        camerasPage.ClickOnCamerasButton();
-        waitFor(2);
-        camerasPage.ClickOnAllCamerasButton();
-        camerasPage.ClickOnSellBtnInCamerasPage();
-
-
+        LOG.info("Test HoverOverAndClickOnCanonUnderCamerasMenu in process");
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.HoverOverCamerasButton(getDriver());
+        camerasPage.HoverOverCanonUnderCamerasMenu(getDriver());
+        camerasPage.ClickOnCanonUnderCamerasMenu();
+        String ExpectedPagetitle ="Canon, used cameras and lenses - Swappa";
+        Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+        LOG.info("Test Passed");
     }
 
+   @Test
+    public void HoverOverAndClickOnDSLRCamerasUnderCamerasMenu () {
+
+       LOG.info("Test HoverOverAndClickOnDSLRCamerasUnderCamerasMenu in process");
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.HoverOverCamerasButton(getDriver());
+        camerasPage.HoverOverDSLRCameraUnderCamerasMenu(getDriver());
+        camerasPage.ClickOnDSLRUnderCamerasMenu();
+        String ExpectedPagetitle ="DSLR cameras and lenses - Swappa";
+        Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+        LOG.info("Test Passed");
+    }
+   @Test
+    public void HoverOverAndClickOnLensesUnderCamerasMenu () {
+
+       LOG.info("Test HoverOverAndClickOnLensesUnderCamerasMenu in process");
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.HoverOverCamerasButton(getDriver());
+        camerasPage.HoverOverLensesUnderCamerasMenu(getDriver());
+        camerasPage.ClickOnlensesUnderCamerasMenu();
+       String ExpectedPagetitle ="Used Lens deals - Swappa";
+       Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+       LOG.info("Test Passed");
+    }
 
     @Test
-    public void HoverOverMultipleItemsInCamerasPage()  {
+    public void HoverOverAndClickOnMirrorLessCamerasUnderCamerasMenu () {
+
+        LOG.info("Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process");
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.HoverOverCamerasButton(getDriver());
+        camerasPage.HoverOverMirrorLessCamerasUnderCamerasMenu(getDriver());
+        camerasPage.ClickOnMirrorLessCamerasUnderCamerasMenu();
+        String ExpectedPagetitle ="Mirrorless cameras and lenses - Swappa";
+        Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+        LOG.info("Test Passed");
+    }
+
+    @Test
+    public void HoverOverAndClickOnNikonUnderCamerasMenu () {
+
+        LOG.info("Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process");
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.HoverOverCamerasButton(getDriver());
+        camerasPage.HoverOverNikonUnderCamerasMenu(getDriver());
+        camerasPage.ClickOnNikonUnderCamerasMenu();
+        String ExpectedPagetitle ="Nikon, used cameras and lenses - Swappa";
+        Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+        LOG.info("Test Passed");
+    }
+
+    @Test
+    public void HoverOverAndClickOnAllCamerasUnderCamerasMenu () {
+
+        LOG.info("Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process");
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.HoverOverCamerasButton(getDriver());
+        camerasPage.HoverOverAllCamerasButton(getDriver());
+        camerasPage.ClickOnAllCamerasButton();
+        String ExpectedPagetitle ="Used Cameras and Lenses - Swappa";
+        Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+        LOG.info("Test Passed");
+    }
+
+    @Test
+    public void ClickOnCamerasThenAllCamerasThenSellBtn() {
+
+        LOG.info("Test ClickOnCamerasThenAllCamerasThenSellBtn in process");
 
         CamerasPage camerasPage = new CamerasPage(getDriver());
-
         camerasPage.HoverOverCamerasThenCLickOnAllCameras(getDriver());
-        camerasPage.ScrollToViewActionCameras(getDriver());
+        camerasPage.ClickOnSellBtnInCamerasPage();
+        String ExpectedPagetitle ="Sell Cameras - Swappa";
+        Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
+        LOG.info("Test Passed");
+    }
+   @Test
+    public void HoverOverShopDSLR() {
 
-        waitFor(3);
-        camerasPage.HoverOverActionCameras(getDriver());
+       LOG.info("Test HoverOverShopDSLR in process");
+
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.ClickOnCamerasButton();
         camerasPage.ScrollToViewShopDSLR(getDriver());
-
-        waitFor(3);
         camerasPage.HoverOverShopDSLR(getDriver());
-        camerasPage.ScrollToViewShopMirrorLessCameras(getDriver());
+        String ExpectedText= "More DSLR Lenses";
+        Assert.assertEquals(camerasPage.AssertShopDSLRText(),ExpectedText);
+         LOG.info("Test Passed");
 
+
+    }
+
+    @Test
+    public void HoverOverShopMirrorLessCameras() {
+
+        LOG.info("Test HoverOverShopMirrorLess Cameras in process");
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.ClickOnCamerasButton();
+        camerasPage.ScrollToViewShopMirrorLessCameras(getDriver());
         camerasPage.HoverOverShopMirrorLessCameras(getDriver());
-        waitFor(3);
+        String ExpectedText= "Shop Mirrorless cameras";
+        Assert.assertEquals(camerasPage.AssertShopMirrorLessCamerasText(),ExpectedText);
+        LOG.info("Test Passed");
+    }
+
+    @Test
+    public void HoverOverShopMoreLenses() {
+
+        LOG.info("Test HoverOverShopMoreLenses in process");
+
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.ClickOnCamerasButton();
         camerasPage.ScrollToViewShopMoreLenses(getDriver());
         camerasPage.HoverOverShopMoreLenses(getDriver());
+        String ExpectedText= "Shop more Lenses";
+        Assert.assertEquals(camerasPage.AssertShopLensesText(),ExpectedText);
+        LOG.info("Test Passed");
 
-        waitFor(3);
+    }
+
+    @Test
+    public void HoverOverAllCamerasAndBrands() {
+
+        LOG.info("Test HoverOverAllCamerasAndBrands in process");
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.ClickOnCamerasButton();
         camerasPage.ScrollToViewAllCamerasAndBrands(getDriver());
-        waitFor(3);
         camerasPage.HoverOverAllCamerasAndBrands(getDriver());
-        waitFor(3);
-
+        String ExpectedText= "All Cameras and brands";
+        Assert.assertEquals(camerasPage.AssertShopAllCamerasAndBrandsText(),ExpectedText);
+        LOG.info("Test Passed");
 
     }
 
 
 
-    @Test
+
+
+
+
+
+
+
+
+
+
+
+
+    //   @Test
+    public void HoverOverMultipleItemsInCamerasPage() {
+
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+        camerasPage.HoverOverActionCamerasBtnInAllCamerasSection(getDriver());
+
+
+    }
+/*
+
+
+
+
+
+
+
+
+*/
+
+
+   // @Test
     public void ClickOnMultipleButtonsInCamerasPage(){
 
         CamerasPage camerasPage = new CamerasPage(getDriver());
 
         camerasPage.ClickOnCamerasButton();
         waitFor(2);
-        camerasPage.ClickOnActionCameras();
-        camerasPage.GoBackToCamerasPage(getDriver());
+        camerasPage.ClickOnActionCamerasUnderCamerasMenu();
+        GoBackToPreviousPage();
         camerasPage.ScrollToViewShopDSLR(getDriver());
         waitFor(3);
         camerasPage.ClickOnMirrorlessBtn();
-        camerasPage.GoBackToCamerasPage(getDriver());
+        GoBackToPreviousPage();
         camerasPage.ScrollToViewShopMirrorLessCameras(getDriver());
         waitFor(3);
         camerasPage.ClickOnLensesBtn();
-        camerasPage.GoBackToCamerasPage(getDriver());
+        GoBackToPreviousPage();
         camerasPage.ScrollToViewShopMoreLenses(getDriver());
         waitFor(3);
         camerasPage.ClickOnFixedLensBtn();
-        camerasPage.GoBackToCamerasPage(getDriver());
+        GoBackToPreviousPage();
         camerasPage.ScrollToViewShopMoreLenses(getDriver());
         waitFor(3);
         camerasPage.ClickOnCamerasBrandButton();
-        camerasPage.GoBackToCamerasPage(getDriver());
+        GoBackToPreviousPage();
         waitFor(3);
 
 
@@ -106,7 +253,7 @@ public class CamerasTest extends CommonAPI {
     }
 
 
-    @Test
+    //@Test
     public void HoverOverMultipleLogosInCamerasSection(){
 
         CamerasPage camerasPage = new CamerasPage(getDriver());
@@ -127,11 +274,17 @@ public class CamerasTest extends CommonAPI {
         waitFor(2);
 
 
-
-
-
-
     }
 
+    /*
+    @Test
+    public void ClickOnRadioBtnInSortBy() {
+
+        CamerasPage camerasPage = new CamerasPage(getDriver());
+
+        camerasPage.CLic(getDriver());
+
+
+    }*/
 
 }
