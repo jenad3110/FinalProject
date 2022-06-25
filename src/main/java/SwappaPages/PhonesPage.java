@@ -73,14 +73,13 @@ public class PhonesPage extends CommonAPI {
     public void ScrollToViewUnlockedGoogle(WebDriver driver){ScrollToView(MoreUnlockedApple,driver);LOG.info("Scroll to view More Unlocked Google Performed");}
     public void ScrollToViewUnlockedSamsung(WebDriver driver){ScrollToView(UnlockedSamusngTitle,driver);LOG.info("Scroll to view More Unlocked Samsung Performed");}
 
-
     public void ClickOnMoreUnlockedOnePLus(){click(MoreUnlockedOnePlusBtn);LOG.info("Click on more unlocked  one plus Performed");}
     public void ClickOnMoreUnlockedGoogleBtn(){click(MoreUnlockedGoogleBtn);LOG.info("Click on more Unlocked google button Performed");}
     public void ClickOnMoreUnlockedSamsung(){click(MoreUnlockedSamsungBtn);LOG.info("Click on more unlocked samsung Performed");}
     public void ClickOnAllUnlockedPhonesBtn(){click(AllUnlockedPhonesBtn);LOG.info("Click on all unlocked phones button Performed");}
     public void ClickOnMoreUnlockedApple(){click(MoreUnlockedApple);LOG.info("Click on more unlocked apple Performed");}
 
-    //public void ClicktUnlockedIPhones(WebDriver driver){ click(UnlockedPhones);}
+
 
 
 

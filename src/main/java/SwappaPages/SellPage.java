@@ -6,12 +6,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class SellPage extends CommonAPI {
 
 
 
     public SellPage(WebDriver driver) {PageFactory.initElements(driver, this);}
+    private final Logger LOG = LoggerFactory.getLogger(SellPage.class);
 
     @FindBy(css = "#primaryNav > nav > div > div > div:nth-child(1) > ul > li:nth-child(3) > a > i")
     WebElement Sell;
@@ -41,8 +44,10 @@ public class SellPage extends CommonAPI {
     WebElement SellMyVideoGameConsole;
     @FindBy(css = "#slide_sell > div.offcanvas-body > div.slide_menu > a:nth-child(8)")
     WebElement SellMyHomeTech;
+
     @FindBy(css = "#slide_sell > div.offcanvas-body > div.slide_menu > a:nth-child(9)")
     WebElement SellMyCameraOrLens;
+
     @FindBy(css = "#slide_sell > div.offcanvas-body > p > a")
     WebElement StartSellingBtn;
     @FindBy(css = "#slide_sell > div.offcanvas-header > button")
@@ -54,154 +59,139 @@ public class SellPage extends CommonAPI {
 
 
 
-    public void ClickOnSellBtn(WebDriver driver){
+    public void HoverOverAndClickOnSellBtn(WebDriver driver){
 
 
-        hoverOver(driver, Sell);
-        click(Sell);
+    hoverOver(driver, Sell);LOG.info("Hover Over Sell Button Performed");
+        click(Sell);LOG.info("Click On Sell Button Performed");
     }
 
     public void ClickOnSTartSellingBtn(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(StartSellingBtn);
+        HoverOverAndClickOnSellBtn(driver);
+        click(StartSellingBtn);LOG.info("Click Start Selling Button Performed");
 
     }
 
     public void ClickOnCloseSellBar(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(CloseSellBar);
+        HoverOverAndClickOnSellBtn(driver);
+        click(CloseSellBar);LOG.info("Click Close Sell Bar Button Performed");
 
     }
 
     public void ClickOnHowToSell(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(HowToSellBtn);
+        HoverOverAndClickOnSellBtn(driver);
+
+        click(HowToSellBtn);LOG.info("Click How To Sell Button Performed");
 
     }
     public void ClickOnFairFees(WebDriver driver){
 
 
-       ClickOnSellBtn(driver);
-       waitFor(3);
-        click(FairFees);
+       HoverOverAndClickOnSellBtn(driver);
+        click(FairFees); LOG.info("Click Fair Fees Button Performed");
     }
 
     public void ClickOnSellFaQ(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellerFAQ);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellerFAQ);LOG.info("Click Seller FAQ Button Performed");
 
 
     }
 
     public void ClickOnSellMyThenIphoneUnderSellSection(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyIphoneBtn);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellMyIphoneBtn);LOG.info("Click Sell My Iphone Button Performed");
 
 
     }
 
     public void ClickOnSellMyThenPhoneUnderSellSection(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyPhoneBtn);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellMyPhoneBtn);LOG.info("Click Sell MyPhone Button Performed");
 
     }
 
     public void ClickOnSellMyThenComputerUnderSellSection(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyComputerBtn);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellMyComputerBtn);LOG.info("Click Sell My Computer Button Performed");
 
     }
     public void ClickOnSellMyThenMacBookUnderSellSection(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyMacBookBtn);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellMyMacBookBtn);LOG.info("Click Sell My MacBook Button Performed");
 
     }
 
 
     public void ClickOnSellMyThenWatchOrWearable(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyWatchOrWearableBtn);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellMyWatchOrWearableBtn);LOG.info("Click Sell My Watch OR Wearable Button Performed");
 
     }
 
     public void ClickOnSellMyThenTabletOrIpad(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyTabletOrIpad);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellMyTabletOrIpad); LOG.info("Click Sell My Tablet Or Ipad Button Performed");
 
     }
 
     public void ClickOnSellMyVideoGameConsole(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyVideoGameConsole);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellMyVideoGameConsole);LOG.info("Click Sell My VideoGame Console Button Performed");
 
     }
     public void ClickOnSellMyHomeTech(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyHomeTech);
+        HoverOverAndClickOnSellBtn(driver);
+        click(SellMyHomeTech);LOG.info("Click Sell My HomeTech Button Performed");
 
     }
-    public void ClickOnSellMyCameraOrLens(WebDriver driver){
+    public void ScrollToViewAndClickOnSellMyCameraOrLens(WebDriver driver){
 
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        click(SellMyCameraOrLens);
+        HoverOverAndClickOnSellBtn(driver);
+        ScrollToView(SellMyCameraOrLens,driver);LOG.info("Scroll To view  Sell My Camera Or Lens Button Performed");
+        click(SellMyCameraOrLens);LOG.info("Click Sell My Camera Or Lens Button Performed");
 
     }
 
     //create a method to scroll
-    public void ScrollToView(WebElement element,WebDriver driver) {
+    public void ScrollToView2(WebElement element,WebDriver driver) {
         JavascriptExecutor js=(JavascriptExecutor)driver;
         js.executeScript("arguments[0].scrollIntoView(true);", element);
 
     }
 
     public void ScrollTotheBottomOnSellFrame(WebDriver driver){
-        ClickOnSellBtn(driver);
-        waitFor(2);
-        ScrollToView(SellMyCameraOrLens,driver);
-        waitFor(2);
+        HoverOverAndClickOnSellBtn(driver);
+        ScrollToView(SellMyCameraOrLens,driver);LOG.info("Scroll To View My Camera Or Lens Button Performed");
     }
 
     public void HoverOverStartSellingBtn(WebDriver driver){
-        ClickOnSellBtn(driver);
-        waitFor(3);
-        hoverOver(driver,StartSellingBtn);
+        HoverOverAndClickOnSellBtn(driver);
+        hoverOver(driver,StartSellingBtn);LOG.info("Hover Over Start Selling Button Performed");
 
     }
 
     public void TypeInSellSearchBar(String text){
 
-        type(SellSearchBar,text);
+        type(SellSearchBar,text);LOG.info("Type "+text+" in sell SearchBar Performed");
 
     }
 
     public void ClickOnSearchBtn(){
 
-        click(SellSearchBtn);
+        click(SellSearchBtn);LOG.info("Click Sell in Search Bar Button Performed");
 
 
 

@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class TopMenuHomePageTest extends CommonAPI {
 
-  //  @Test
+   @Test
     public void HoverOverClickAndCloseSearchButton() {
 
         TopMenuHomePage topMenuHomePage = new TopMenuHomePage(getDriver());
@@ -44,7 +44,6 @@ public class TopMenuHomePageTest extends CommonAPI {
         topMenuHomePage.HoverOverShoppingCart(getDriver());
         topMenuHomePage.ClickShoppingCart();
         String ExpectedText= "Cart, Full of Deals";
-        //topMenuHomePage.WaitForAddToCartElementToBeVisible(getDriver());
         topMenuHomePage.WaitForAddToCartToBeVisible(getDriver());
         Assert.assertEquals(topMenuHomePage.AssertAddToCartText(),ExpectedText);
         topMenuHomePage.ClickCloseShoppingCart();

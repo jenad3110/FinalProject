@@ -26,16 +26,6 @@ public class TabletsPage extends CommonAPI {
     @FindBy(css = "#secondaryNav > nav > div > ul > li:nth-child(6) > ul > li:nth-child(5) > a")
     WebElement AllTabletsInSubMenu;
 
-    public void ClickOnTabletInMenu(){click(TabletsInMenu);}
-    public void HoverOverTabletInmenu(WebDriver driver){hoverOver(driver,TabletsInMenu);}
-    public void ClickOnIpadInsubMenu(){click(IpadsInSubMenu);}
-    public void ClickOnSamsungInSubMenu(){click(SamsungInSubMenu);}
-    public void ClickOnWindowsInSubMenu(){click(WindowsInSubMenu);}
-    public void ClickOnAmazonKindleInSubMenu(){click(AmazonKindleInSubMenu);}
-    public void ClickOnALlTabletsInSubMenu(){click(AllTabletsInSubMenu);}
-
-
-
     //------------------------------------Under All Tablets section ---------------------------------------------------//
 
     @FindBy(css = "#section_main > div:nth-child(4) > div.text-center > a")
@@ -47,13 +37,6 @@ public class TabletsPage extends CommonAPI {
     @FindBy(css = "#section_main > div:nth-child(1) > div.text-center > a")
     WebElement MoreAppleTablets;
 
-    public void ClickOnMoreAmazonTablets(){click(MoreAmazonTablets); LOG.info("Accessed More AmazonTablets");}
-    public void ClickOnMoreWindowsTablets(){click(MoreWindowsTablets);LOG.info("Accessed More Windows Tablets");}
-    public void ClickOnAndoidTablets(){click(MoreAndroidTablets);LOG.info("Accessed More Android Tablets");}
-    public void ClickOnMoreappleTablets(){click(MoreAppleTablets);LOG.info("Accessed More Apple Tablets");}
-
-
-
     //------------------------------------Under Amazon Tablets section---------------------------------------------------//
 
     @FindBy(css = "#id_brand")
@@ -62,7 +45,19 @@ public class TabletsPage extends CommonAPI {
     WebElement FilterPlatform;
     @FindBy(css = "#id_sort")
     WebElement SortBy;
-    String ExpectedTextForDropDownSearch="No products match this criteria.";
+
+
+
+    public void ClickOnTabletInMenu(){click(TabletsInMenu);LOG.info("Click Tablets In Menu Performed");}
+    public void HoverOverTabletInmenu(WebDriver driver){hoverOver(driver,TabletsInMenu);LOG.info("Hover Over Tablets In Menu Performed");}
+    public void ClickOnIpadInsubMenu(){click(IpadsInSubMenu);LOG.info("Click On Ipad In Menu Performed");}
+    public void ClickOnSamsungInSubMenu(){click(SamsungInSubMenu);LOG.info("Click On Samsung In Menu Performed");}
+    public void ClickOnWindowsInSubMenu(){click(WindowsInSubMenu);LOG.info("Click Windows In Menu Performed");}
+    public void ClickOnAmazonKindleInSubMenu(){click(AmazonKindleInSubMenu);LOG.info("Click Amazon Kindle In Menu Performed");}
+    public void ClickOnALlTabletsInSubMenu(){click(AllTabletsInSubMenu);LOG.info("Click All Tablets In Menu Performed");}
+
+
+
 
 
     public void SelectFromDropDownAmazon(String Text){ selectFromDropdown(AmazonDropDownMenu,Text);LOG.info("Option "+Text+" Is Selected ");}
@@ -120,13 +115,11 @@ public class TabletsPage extends CommonAPI {
     WebElement SamsungForAssert;
     @FindBy(css = "#section_main > div")
     WebElement SearchBarAssert;
-    //@FindBy(css = "#section_top > div > div:nth-child(1) > h1")
-    //WebElement TabletsForsaleAssert;
 
     public String AssertTextInIpadPage(){return getElementText(IpadForAssert);}
     public String AssertTextInSamsungPage(){return getElementText(SamsungForAssert);}
     public String AssertTextForSearchBar(){return getElementText(SearchBarAssert);}
-    //public String AssertTextInWindowsPage(){return getElementText();}
+
 
 
 

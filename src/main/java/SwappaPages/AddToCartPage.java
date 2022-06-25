@@ -25,6 +25,7 @@ public class AddToCartPage extends CommonAPI {
     WebElement ClosingCartPage;
 
 
+
     public void ClickOnFindAGoodDealInBottomOfCartPage() {
 
         click(ShoppingCart);

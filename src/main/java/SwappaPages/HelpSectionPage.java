@@ -56,7 +56,6 @@ public class HelpSectionPage extends CommonAPI {
     public void EnterYourEmailForSupport(String Email) { type(EmailBtnInContactSupport, Email);LOG.info("Email Entered");}
     public void WaitForEmailToBEVisible(WebDriver driver){waitForAnElementTobeVisible(EmailBtnInContactSupport,driver);LOG.info("Email is Visible");}
     public void SelectFromDropDown(String Option) {   selectFromDropdown(SubjectForSupportDropDown, Option);LOG.info("Option From DropDown Selected");}
-    public void WaitForEmailToBEVisible2(WebDriver driver){waitForAnElementTobeVisible(EmailBtnInContactSupport,driver);LOG.info("Email is Visible");}
     public void TypeYourMessage(String EnterYourMessage) {    type(MessageForSupport, EnterYourMessage);LOG.info("Message For Support Selected");}
 
 

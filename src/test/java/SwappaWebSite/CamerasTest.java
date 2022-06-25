@@ -126,6 +126,7 @@ public class CamerasTest extends CommonAPI {
         Assert.assertEquals(getPageTitle(),ExpectedPagetitle);
         LOG.info("Test Passed");
     }
+
    @Test
     public void HoverOverShopDSLR() {
 
@@ -183,108 +184,63 @@ public class CamerasTest extends CommonAPI {
         LOG.info("Test Passed");
 
     }
+@Test
+public void HoverOverMultipleLogosInCamerasSection(){
+
+    CamerasPage camerasPage = new CamerasPage(getDriver());
+
+    camerasPage.ClickOnCamerasButton();
 
 
+    camerasPage.HoverOverSony(getDriver());
+    Assert.assertTrue(camerasPage.SonyLogoIsInteractable());
+
+    camerasPage.HoverOverPanasonic(getDriver());
+    Assert.assertTrue(camerasPage.PanasonicLogoIsInteractable());
+
+    camerasPage.HoverOverNikon(getDriver());
+    Assert.assertTrue(camerasPage.NikonLogoIsInteractable());
+
+    camerasPage.HoverOverGoPro(getDriver());
+    Assert.assertTrue(camerasPage.GoProLogoIsInteractable());
+
+    camerasPage.HoverOverFujiFilm(getDriver());
+    Assert.assertTrue(camerasPage.FujiFilmLogoIsInteractable());
+
+    camerasPage.HoverOverCanon(getDriver());
+    Assert.assertTrue(camerasPage.CanonLogoIsInteractable());
 
 
+}
 
+//   @Test
+//    public void ClickOnMultipleButtonsInCamerasPage(){
+//
+//        CamerasPage camerasPage = new CamerasPage(getDriver());
+//
+//        //camerasPage.ClickOnCamerasButton();
+//       camerasPage.HoverOverCamerasButton(getDriver());
+//        camerasPage.ClickOnActionCamerasUnderCamerasMenu();
+//        GoBackToPreviousPage();
+//        camerasPage.ScrollToViewShopDSLR(getDriver());
+//        camerasPage.ClickOnMirrorlessBtn();
+//        GoBackToPreviousPage();
+//        camerasPage.ScrollToViewShopMirrorLessCameras(getDriver());
+//        camerasPage.ClickOnLensesBtn();
+//        GoBackToPreviousPage();
+//        camerasPage.ScrollToViewShopMoreLenses(getDriver());
+//        camerasPage.ClickOnFixedLensBtn();
+//        GoBackToPreviousPage();
+//        camerasPage.ScrollToViewShopMoreLenses(getDriver());
+//        camerasPage.ClickOnCamerasBrandButton();
+//        GoBackToPreviousPage();
+//
+//
+//
+//
+//
+//
+//    }
 
-
-
-
-
-
-
-
-
-
-    //   @Test
-    public void HoverOverMultipleItemsInCamerasPage() {
-
-        CamerasPage camerasPage = new CamerasPage(getDriver());
-        camerasPage.HoverOverActionCamerasBtnInAllCamerasSection(getDriver());
-
-
-    }
-/*
-
-
-
-
-
-
-
-
-*/
-
-
-   // @Test
-    public void ClickOnMultipleButtonsInCamerasPage(){
-
-        CamerasPage camerasPage = new CamerasPage(getDriver());
-
-        camerasPage.ClickOnCamerasButton();
-        waitFor(2);
-        camerasPage.ClickOnActionCamerasUnderCamerasMenu();
-        GoBackToPreviousPage();
-        camerasPage.ScrollToViewShopDSLR(getDriver());
-        waitFor(3);
-        camerasPage.ClickOnMirrorlessBtn();
-        GoBackToPreviousPage();
-        camerasPage.ScrollToViewShopMirrorLessCameras(getDriver());
-        waitFor(3);
-        camerasPage.ClickOnLensesBtn();
-        GoBackToPreviousPage();
-        camerasPage.ScrollToViewShopMoreLenses(getDriver());
-        waitFor(3);
-        camerasPage.ClickOnFixedLensBtn();
-        GoBackToPreviousPage();
-        camerasPage.ScrollToViewShopMoreLenses(getDriver());
-        waitFor(3);
-        camerasPage.ClickOnCamerasBrandButton();
-        GoBackToPreviousPage();
-        waitFor(3);
-
-
-
-
-
-
-    }
-
-
-    //@Test
-    public void HoverOverMultipleLogosInCamerasSection(){
-
-        CamerasPage camerasPage = new CamerasPage(getDriver());
-
-        camerasPage.ClickOnCamerasButton();
-
-        camerasPage.HoverOverSony(getDriver());
-        waitFor(2);
-        camerasPage.HoverOverPanasonic(getDriver());
-        waitFor(2);
-        camerasPage.HoverOverNikon(getDriver());
-        waitFor(2);
-        camerasPage.HoverOverGoPro(getDriver());
-        waitFor(2);
-        camerasPage.HoverOverFujiFilm(getDriver());
-        waitFor(2);
-        camerasPage.HoverOverCanon(getDriver());
-        waitFor(2);
-
-
-    }
-
-    /*
-    @Test
-    public void ClickOnRadioBtnInSortBy() {
-
-        CamerasPage camerasPage = new CamerasPage(getDriver());
-
-        camerasPage.CLic(getDriver());
-
-
-    }*/
 
 }

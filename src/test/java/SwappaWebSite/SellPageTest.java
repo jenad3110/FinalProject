@@ -1,12 +1,11 @@
 package SwappaWebSite;
 
-import SwappaPages.HomePage;
 import SwappaPages.SellPage;
 import base.CommonAPI;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class SellPageTest extends CommonAPI {
-
 
 
    @Test
@@ -14,8 +13,8 @@ public class SellPageTest extends CommonAPI {
     public void TestSELLBtn(){
 
         SellPage sellPage = new SellPage(getDriver());
-        HomePage homePage = new HomePage(getDriver());
-        sellPage.ClickOnSellBtn(getDriver());
+        sellPage.HoverOverAndClickOnSellBtn(getDriver());
+        Assert.assertEquals(getPageTitle(),"Buy and Sell Used Phones, Laptops and More - Swappa");
 
 
     }
@@ -25,6 +24,7 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSTartSellingBtn(getDriver());
+        Assert.assertEquals(getPageTitle(),"Sell on Swappa - Swappa");
     }
 
     @Test
@@ -32,6 +32,8 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnCloseSellBar(getDriver());
+        Assert.assertEquals(getPageTitle(),"Buy and Sell Used Phones, Laptops and More - Swappa");
+
     }
 
 
@@ -44,16 +46,17 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnHowToSell(getDriver());
+        Assert.assertEquals(getPageTitle(),"How to Sell - Swappa");
 
     }
 
-    @Test
+   @Test
 
     public void ClickOnfairFeesBtnTest(){
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnFairFees(getDriver());
-
+        Assert.assertEquals(getPageTitle(),"How to Sell - Swappa");
 
 
     }
@@ -63,6 +66,7 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellFaQ(getDriver());
+        Assert.assertEquals(getPageTitle(),"FAQ: Selling - Swappa");
 
     }
 
@@ -71,14 +75,17 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellMyThenIphoneUnderSellSection(getDriver());
+        Assert.assertEquals(getPageTitle(),"Sell My iPhone - Swappa");
+
 
     }
 
-    @Test
+   @Test
     public void SelectSellMyThenPhoneTest(){
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellMyThenPhoneUnderSellSection(getDriver());
+       Assert.assertEquals(getPageTitle(),"Sell My Phone - Swappa");
     }
 
     @Test
@@ -86,6 +93,7 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellMyThenMacBookUnderSellSection(getDriver());
+        Assert.assertEquals(getPageTitle(),"Sell MacBook - Swappa");
     }
 
     @Test
@@ -93,6 +101,7 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellMyThenComputerUnderSellSection(getDriver());
+        Assert.assertEquals(getPageTitle(),"Sell Laptop - MacBook, Chromebook, and Windows - Swappa");
     }
 
 
@@ -101,6 +110,8 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellMyThenTabletOrIpad(getDriver());
+         Assert.assertEquals(getPageTitle(),"Sell Tablets | Sell Your Tablet For Cash - Swappa");
+
     }
 
     @Test
@@ -108,6 +119,7 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellMyThenWatchOrWearable(getDriver());
+        Assert.assertEquals(getPageTitle(),"Sell Wearables - Swappa");
     }
 
     @Test
@@ -115,19 +127,22 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellMyVideoGameConsole(getDriver());
+        Assert.assertEquals(getPageTitle(),"Sell Video Games and Consoles - Swappa");
     }
     @Test
     public void SelectSellMyHomeTech(){
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ClickOnSellMyVideoGameConsole(getDriver());
+        Assert.assertEquals(getPageTitle(),"Sell Video Games and Consoles - Swappa");
     }
 
-   @Test
-    public void SelectSellMyCameraOrLens(){
+    @Test
+    public void ScrolltoViewAndSelectSellMyCameraOrLens(){
 
         SellPage sellPage = new SellPage(getDriver());
-        sellPage.ClickOnSellMyCameraOrLens(getDriver());
+        sellPage.ScrollToViewAndClickOnSellMyCameraOrLens(getDriver());
+       Assert.assertEquals(getPageTitle(),"Sell Cameras - Swappa");
     }
 
     @Test
@@ -135,6 +150,7 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.ScrollTotheBottomOnSellFrame(getDriver());
+        Assert.assertEquals(getPageTitle(),"Buy and Sell Used Phones, Laptops and More - Swappa");
     }
 
     @Test
@@ -142,6 +158,7 @@ public class SellPageTest extends CommonAPI {
 
         SellPage sellPage = new SellPage(getDriver());
         sellPage.HoverOverStartSellingBtn(getDriver());
+        Assert.assertEquals(getPageTitle(),"Buy and Sell Used Phones, Laptops and More - Swappa");
     }
 
     @Test
@@ -151,6 +168,7 @@ public class SellPageTest extends CommonAPI {
         sellPage.ClickOnSellMyThenIphoneUnderSellSection(getDriver());
         sellPage.TypeInSellSearchBar("Iphone 13 Pro");
         sellPage.ClickOnSearchBtn();
+        Assert.assertEquals(getPageTitle(),"Sell - Swappa");
     }
 
     @Test
@@ -160,6 +178,7 @@ public class SellPageTest extends CommonAPI {
         sellPage.ClickOnSellMyThenPhoneUnderSellSection(getDriver());
         sellPage.TypeInSellSearchBar("samsung galaxy s30");
         sellPage.ClickOnSearchBtn();
+        Assert.assertEquals(getPageTitle(),"Sell - Swappa");
     }
 
     @Test
@@ -169,6 +188,7 @@ public class SellPageTest extends CommonAPI {
         sellPage.ClickOnSellMyThenMacBookUnderSellSection(getDriver());
         sellPage.TypeInSellSearchBar("MacBook Pro 10");
         sellPage.ClickOnSearchBtn();
+        Assert.assertEquals(getPageTitle(),"Sell - Swappa");
     }
 
     @Test
@@ -178,7 +198,7 @@ public class SellPageTest extends CommonAPI {
         sellPage.ClickOnSellMyThenMacBookUnderSellSection(getDriver());
         sellPage.TypeInSellSearchBar("samsung s22");
         sellPage.ClickOnSearchBtn();
-        waitFor(5);
+        Assert.assertEquals(getPageTitle(),"Sell - Swappa");
     }
 
 

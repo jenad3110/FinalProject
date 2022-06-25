@@ -25,6 +25,7 @@ public class MenuPage extends CommonAPI {
         click(Menu);
         click(ForumsSection);
 
+
     }
 
 

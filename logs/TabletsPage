@@ -3115,3 +3115,1944 @@
 15:59:28.082 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
 15:59:29.240 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
 15:59:30.449 base.CommonAPI -                      ------Tests Class Completed-----
+16:50:05.516 base.CommonAPI -                    -----New Class Tests Initiated-----
+16:50:09.967 SwappaPages.SearchBarPage - Click search logo Performed
+16:50:10.040 SwappaPages.SearchBarPage - type search  Performed
+16:50:10.064 SwappaPages.SearchBarPage - Clear search Performed
+16:50:10.127 SwappaPages.SearchBarPage - type search  Performed
+16:50:10.152 SwappaPages.SearchBarPage - Clear search Performed
+16:50:10.219 SwappaPages.SearchBarPage - type search  Performed
+16:50:10.244 SwappaPages.SearchBarPage - Clear search Performed
+16:50:10.312 SwappaPages.SearchBarPage - type search  Performed
+16:50:10.846 base.CommonAPI - Screenshot captured
+16:50:11.510 base.CommonAPI -                      ------Tests Class Completed-----
+16:51:10.329 base.CommonAPI -                    -----New Class Tests Initiated-----
+16:51:13.784 SwappaPages.SearchBarPage - Click search logo Performed
+16:51:14.508 SwappaPages.SearchBarPage - Clear search Performed
+16:51:14.551 SwappaPages.SearchBarPage - type ps5 in search field and enter success
+16:51:14.576 SwappaPages.SearchBarPage - Clear search Performed
+16:51:14.633 SwappaPages.SearchBarPage - type keyboard in search field and enter success
+16:51:14.659 SwappaPages.SearchBarPage - Clear search Performed
+16:51:14.699 SwappaPages.SearchBarPage - type mouse in search field and enter success
+16:51:14.719 SwappaPages.SearchBarPage - Clear search Performed
+16:51:14.767 SwappaPages.SearchBarPage - type monitor in search field and enter success
+16:51:14.793 SwappaPages.SearchBarPage - Clear search Performed
+16:51:14.826 SwappaPages.SearchBarPage - type xbox in search field and enter success
+16:51:15.323 base.CommonAPI - Screenshot captured
+16:51:18.328 SwappaPages.SearchBarPage - Click search logo Performed
+16:51:18.924 SwappaPages.SearchBarPage - type search  Performed
+16:51:18.965 SwappaPages.SearchBarPage - Clear search Performed
+16:51:19.039 SwappaPages.SearchBarPage - type search  Performed
+16:51:19.058 SwappaPages.SearchBarPage - Clear search Performed
+16:51:19.112 SwappaPages.SearchBarPage - type search  Performed
+16:51:19.131 SwappaPages.SearchBarPage - Clear search Performed
+16:51:19.198 SwappaPages.SearchBarPage - type search  Performed
+16:51:19.918 base.CommonAPI -                      ------Tests Class Completed-----
+16:51:46.972 base.CommonAPI -                    -----New Class Tests Initiated-----
+16:51:50.829 SwappaPages.SearchBarPage - Click search logo Performed
+16:51:51.479 SwappaPages.SearchBarPage - Clear search Performed
+16:51:51.518 SwappaPages.SearchBarPage - type ps5 in search field and enter success
+16:51:51.542 SwappaPages.SearchBarPage - Clear search Performed
+16:51:51.596 SwappaPages.SearchBarPage - type keyboard in search field and enter success
+16:51:51.617 SwappaPages.SearchBarPage - Clear search Performed
+16:51:51.658 SwappaPages.SearchBarPage - type mouse in search field and enter success
+16:51:51.679 SwappaPages.SearchBarPage - Clear search Performed
+16:51:51.729 SwappaPages.SearchBarPage - type monitor in search field and enter success
+16:51:51.750 SwappaPages.SearchBarPage - Clear search Performed
+16:51:51.791 SwappaPages.SearchBarPage - type xbox in search field and enter success
+16:51:55.325 SwappaPages.SearchBarPage - Click search logo Performed
+16:51:55.990 SwappaPages.SearchBarPage - type search  Performed
+16:51:56.039 SwappaPages.SearchBarPage - Clear search Performed
+16:51:56.092 SwappaPages.SearchBarPage - type search  Performed
+16:51:56.111 SwappaPages.SearchBarPage - Clear search Performed
+16:51:56.167 SwappaPages.SearchBarPage - type search  Performed
+16:51:56.186 SwappaPages.SearchBarPage - Clear search Performed
+16:51:56.257 SwappaPages.SearchBarPage - type search  Performed
+16:51:57.001 base.CommonAPI -                      ------Tests Class Completed-----
+17:00:37.992 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:00:43.925 SwappaPages.SearchBarPage - Click search logo Performed
+17:00:45.267 SwappaPages.SearchBarPage - Clear search Performed
+17:00:45.367 SwappaPages.SearchBarPage - type ps5 in search field and enter success
+17:00:45.429 SwappaPages.SearchBarPage - Clear search Performed
+17:00:45.558 SwappaPages.SearchBarPage - type keyboard in search field and enter success
+17:00:45.629 SwappaPages.SearchBarPage - Clear search Performed
+17:00:45.694 SwappaPages.SearchBarPage - type mouse in search field and enter success
+17:00:45.745 SwappaPages.SearchBarPage - Clear search Performed
+17:00:45.829 SwappaPages.SearchBarPage - type monitor in search field and enter success
+17:00:45.879 SwappaPages.SearchBarPage - Clear search Performed
+17:00:45.956 SwappaPages.SearchBarPage - type xbox in search field and enter success
+17:00:50.157 SwappaPages.SearchBarPage - Click search logo Performed
+17:00:50.315 SwappaPages.SearchBarPage - type search  Performed
+17:00:50.363 SwappaPages.SearchBarPage - Clear search Performed
+17:00:50.450 SwappaPages.SearchBarPage - type search  Performed
+17:00:50.494 SwappaPages.SearchBarPage - Clear search Performed
+17:00:50.586 SwappaPages.SearchBarPage - type search  Performed
+17:00:50.628 SwappaPages.SearchBarPage - Clear search Performed
+17:00:50.719 SwappaPages.SearchBarPage - type search  Performed
+17:00:51.447 base.CommonAPI -                      ------Tests Class Completed-----
+17:45:13.820 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:45:13.858 base.CommonAPI -                      ------Tests Class Completed-----
+17:45:29.410 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:45:34.333 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:45:34.395 SwappaPages.SellPage - Click On Sell Button Performed
+17:45:35.115 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+17:45:35.229 SwappaPages.SellPage - Type Iphone 13 Pro in sell SearchBar Performed
+17:45:35.920 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+17:45:40.533 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:45:40.606 SwappaPages.SellPage - Click On Sell Button Performed
+17:45:42.085 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+17:45:42.271 SwappaPages.SellPage - Type MacBook Pro 10 in sell SearchBar Performed
+17:45:43.066 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+17:45:47.318 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:45:47.383 SwappaPages.SellPage - Click On Sell Button Performed
+17:45:48.383 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+17:45:48.507 SwappaPages.SellPage - Type samsung galaxy s30 in sell SearchBar Performed
+17:45:49.112 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+17:45:53.292 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:45:53.349 SwappaPages.SellPage - Click On Sell Button Performed
+17:45:54.329 SwappaPages.SellPage - Click Start Selling Button Performed
+17:45:58.457 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:45:58.519 SwappaPages.SellPage - Click On Sell Button Performed
+17:45:59.467 SwappaPages.SellPage - Click Fair Fees Button Performed
+17:46:03.613 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:03.680 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:04.468 SwappaPages.SellPage - Click Seller FAQ Button Performed
+17:46:08.260 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:08.372 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:09.104 SwappaPages.SellPage - Hover Over Start Selling Button Performed
+17:46:13.060 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:13.112 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:14.069 SwappaPages.SellPage - Click How To Sell Button Performed
+17:46:17.876 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:17.930 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:18.955 SwappaPages.SellPage - Scroll To View My Camera Or Lens Button Performed
+17:46:23.061 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:23.159 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:24.499 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+17:46:24.620 SwappaPages.SellPage - Type samsung s22 in sell SearchBar Performed
+17:46:25.307 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+17:46:34.282 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:34.374 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:34.435 SwappaPages.SellPage - Click Close Sell Bar Button Performed
+17:46:38.110 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:38.184 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:39.795 base.CommonAPI - Screenshot captured
+17:46:44.219 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:44.281 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:45.357 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+17:46:49.814 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:49.868 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:51.328 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+17:46:54.887 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:46:54.969 SwappaPages.SellPage - Click On Sell Button Performed
+17:46:55.782 SwappaPages.SellPage - Click Sell My Computer Button Performed
+17:46:59.981 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:47:00.061 SwappaPages.SellPage - Click On Sell Button Performed
+17:47:00.864 SwappaPages.SellPage - Click Sell My Tablet Or Ipad Button Performed
+17:47:05.032 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:47:05.101 SwappaPages.SellPage - Click On Sell Button Performed
+17:47:05.868 SwappaPages.SellPage - Click Sell My Watch OR Wearable Button Performed
+17:47:09.237 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:47:09.296 SwappaPages.SellPage - Click On Sell Button Performed
+17:47:10.337 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+17:47:13.879 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:47:13.955 SwappaPages.SellPage - Click On Sell Button Performed
+17:47:14.856 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+17:47:18.523 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:47:18.591 SwappaPages.SellPage - Click On Sell Button Performed
+17:47:19.542 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+17:47:23.014 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:47:23.094 SwappaPages.SellPage - Click On Sell Button Performed
+17:47:23.764 base.CommonAPI -                      ------Tests Class Completed-----
+17:53:13.824 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:53:18.334 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:53:18.421 SwappaPages.SellPage - Click On Sell Button Performed
+17:53:19.428 SwappaPages.SellPage - Click Start Selling Button Performed
+17:53:19.892 base.CommonAPI - Screenshot captured
+17:53:23.695 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:53:23.747 SwappaPages.SellPage - Click On Sell Button Performed
+17:53:24.077 base.CommonAPI - Screenshot captured
+17:53:24.734 base.CommonAPI -                      ------Tests Class Completed-----
+17:53:56.581 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:54:00.481 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:54:00.534 SwappaPages.SellPage - Click On Sell Button Performed
+17:54:01.484 SwappaPages.SellPage - Click Start Selling Button Performed
+17:54:01.966 base.CommonAPI - Screenshot captured
+17:54:05.920 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:54:06.019 SwappaPages.SellPage - Click On Sell Button Performed
+17:54:06.483 base.CommonAPI - Screenshot captured
+17:54:07.113 base.CommonAPI -                      ------Tests Class Completed-----
+17:54:38.588 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:54:42.820 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:54:42.880 SwappaPages.SellPage - Click On Sell Button Performed
+17:54:44.007 SwappaPages.SellPage - Click Start Selling Button Performed
+17:54:48.605 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:54:48.672 SwappaPages.SellPage - Click On Sell Button Performed
+17:54:49.386 base.CommonAPI -                      ------Tests Class Completed-----
+17:56:23.727 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:56:27.799 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:56:27.881 SwappaPages.SellPage - Click On Sell Button Performed
+17:56:28.564 SwappaPages.SellPage - Click How To Sell Button Performed
+17:56:32.434 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:56:32.529 SwappaPages.SellPage - Click On Sell Button Performed
+17:56:32.581 SwappaPages.SellPage - Click Close Sell Bar Button Performed
+17:56:32.910 base.CommonAPI - Screenshot captured
+17:56:33.562 base.CommonAPI -                      ------Tests Class Completed-----
+17:57:36.138 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:57:40.147 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:57:40.214 SwappaPages.SellPage - Click On Sell Button Performed
+17:57:40.840 SwappaPages.SellPage - Click How To Sell Button Performed
+17:57:41.286 base.CommonAPI - Screenshot captured
+17:57:44.808 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:57:44.866 SwappaPages.SellPage - Click On Sell Button Performed
+17:57:46.273 base.CommonAPI - Screenshot captured
+17:57:46.913 base.CommonAPI -                      ------Tests Class Completed-----
+17:58:13.433 base.CommonAPI -                    -----New Class Tests Initiated-----
+17:58:17.557 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:58:17.612 SwappaPages.SellPage - Click On Sell Button Performed
+17:58:18.218 SwappaPages.SellPage - Click How To Sell Button Performed
+17:58:22.018 SwappaPages.SellPage - Hover Over Sell Button Performed
+17:58:22.069 SwappaPages.SellPage - Click On Sell Button Performed
+17:58:22.121 SwappaPages.SellPage - Click Close Sell Bar Button Performed
+17:58:22.839 base.CommonAPI -                      ------Tests Class Completed-----
+18:00:08.272 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:00:12.925 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:00:12.996 SwappaPages.SellPage - Click On Sell Button Performed
+18:00:13.638 SwappaPages.SellPage - Click Fair Fees Button Performed
+18:00:18.057 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:00:18.148 SwappaPages.SellPage - Click On Sell Button Performed
+18:00:18.907 SwappaPages.SellPage - Click Seller FAQ Button Performed
+18:00:19.370 base.CommonAPI - Screenshot captured
+18:00:23.776 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:00:23.849 SwappaPages.SellPage - Click On Sell Button Performed
+18:00:24.905 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+18:00:25.171 base.CommonAPI - Screenshot captured
+18:00:25.819 base.CommonAPI -                      ------Tests Class Completed-----
+18:01:53.761 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:02:23.253 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:02:28.517 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:02:28.597 SwappaPages.SellPage - Click On Sell Button Performed
+18:02:30.032 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+18:02:30.603 base.CommonAPI - Screenshot captured
+18:02:35.222 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:02:35.292 SwappaPages.SellPage - Click On Sell Button Performed
+18:02:36.193 SwappaPages.SellPage - Click Sell My Computer Button Performed
+18:02:36.508 base.CommonAPI - Screenshot captured
+18:02:40.995 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:02:41.061 SwappaPages.SellPage - Click On Sell Button Performed
+18:02:42.001 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+18:02:42.309 base.CommonAPI - Screenshot captured
+18:02:42.970 base.CommonAPI -                      ------Tests Class Completed-----
+18:07:51.452 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:07:55.509 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:07:55.579 SwappaPages.SellPage - Click On Sell Button Performed
+18:07:56.259 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+18:07:56.415 SwappaPages.SellPage - Type Iphone 13 Pro in sell SearchBar Performed
+18:07:57.040 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+18:07:57.456 base.CommonAPI - Screenshot captured
+18:08:01.605 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:08:01.657 SwappaPages.SellPage - Click On Sell Button Performed
+18:08:06.083 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+18:08:06.215 SwappaPages.SellPage - Type MacBook Pro 10 in sell SearchBar Performed
+18:08:07.839 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+18:08:08.096 base.CommonAPI - Screenshot captured
+18:08:13.556 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:08:13.784 SwappaPages.SellPage - Click On Sell Button Performed
+18:08:15.286 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+18:08:15.395 SwappaPages.SellPage - Type samsung galaxy s30 in sell SearchBar Performed
+18:08:17.633 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+18:08:17.890 base.CommonAPI - Screenshot captured
+18:08:22.463 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:08:22.536 SwappaPages.SellPage - Click On Sell Button Performed
+18:08:23.243 SwappaPages.SellPage - Hover Over Start Selling Button Performed
+18:08:23.521 base.CommonAPI - Screenshot captured
+18:08:37.795 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:08:37.854 SwappaPages.SellPage - Click On Sell Button Performed
+18:08:38.882 SwappaPages.SellPage - Scroll To View My Camera Or Lens Button Performed
+18:08:39.398 base.CommonAPI - Screenshot captured
+18:08:43.325 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:08:43.371 SwappaPages.SellPage - Click On Sell Button Performed
+18:08:44.681 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+18:08:44.813 SwappaPages.SellPage - Type samsung s22 in sell SearchBar Performed
+18:08:45.427 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+18:08:45.689 base.CommonAPI - Screenshot captured
+18:08:49.332 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:08:49.451 SwappaPages.SellPage - Click On Sell Button Performed
+18:08:50.820 base.CommonAPI - Screenshot captured
+18:08:54.898 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:08:54.974 SwappaPages.SellPage - Click On Sell Button Performed
+18:08:55.778 SwappaPages.SellPage - Click Sell My Tablet Or Ipad Button Performed
+18:08:56.058 base.CommonAPI - Screenshot captured
+18:08:59.598 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:08:59.664 SwappaPages.SellPage - Click On Sell Button Performed
+18:09:00.450 SwappaPages.SellPage - Click Sell My Watch OR Wearable Button Performed
+18:09:00.632 base.CommonAPI - Screenshot captured
+18:09:04.059 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:09:04.110 SwappaPages.SellPage - Click On Sell Button Performed
+18:09:05.158 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+18:09:05.341 base.CommonAPI - Screenshot captured
+18:09:05.991 base.CommonAPI -                      ------Tests Class Completed-----
+18:14:42.350 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:14:46.389 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:14:46.447 SwappaPages.SellPage - Click On Sell Button Performed
+18:14:47.899 base.CommonAPI - Screenshot captured
+18:14:48.584 base.CommonAPI -                      ------Tests Class Completed-----
+18:16:18.084 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:16:22.069 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:16:22.122 SwappaPages.SellPage - Click On Sell Button Performed
+18:16:23.159 SwappaPages.SellPage - Scroll To view  Sell My Camera Or Lens Button Performed
+18:16:23.654 SwappaPages.SellPage - Click Sell My Camera Or Lens Button Performed
+18:16:24.019 base.CommonAPI - Screenshot captured
+18:16:24.721 base.CommonAPI -                      ------Tests Class Completed-----
+18:17:39.437 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:17:43.140 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:17:43.195 SwappaPages.SellPage - Click On Sell Button Performed
+18:17:44.215 SwappaPages.SellPage - Scroll To view  Sell My Camera Or Lens Button Performed
+18:17:44.720 SwappaPages.SellPage - Click Sell My Camera Or Lens Button Performed
+18:17:45.586 base.CommonAPI -                      ------Tests Class Completed-----
+18:28:38.620 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:28:43.149 SwappaWebSite.HomePageTest - Access Articles Mentioning Swappa Test is Processing
+18:28:44.956 SwappaPages.HomePage - CNET logo CLicked
+18:28:46.109 SwappaPages.HomePage - Life Hacker logo CLicked
+18:28:46.179 SwappaPages.HomePage - TomS Guide logo CLicked With Java Script function
+18:28:46.280 SwappaPages.HomePage - Fortune logo CLicked
+18:28:46.399 SwappaPages.HomePage - WSJ logo CLicked
+18:28:46.410 SwappaWebSite.HomePageTest - Test Passed
+18:28:50.244 SwappaWebSite.HomePageTest - Access Swappa Log At The Bottom Of The Page is Processing
+18:28:51.911 base.CommonAPI - Explicit wait for an element to be visible
+18:28:51.949 SwappaWebSite.HomePageTest - Test Passed
+18:28:54.967 SwappaWebSite.HomePageTest - Click On B2B Exchange Test is Processing
+18:28:56.348 base.CommonAPI - Explicit wait for an element to be visible
+18:28:56.349 SwappaPages.HomePage - Scroll to view B2B Exchange Btn
+18:28:56.395 base.CommonAPI - Explicit wait for an element to be Clickable
+18:28:57.012 SwappaPages.HomePage - B2B Exchange Btn clicked
+18:28:57.046 SwappaWebSite.HomePageTest - Test Passed
+18:28:59.970 SwappaWebSite.HomePageTest - Access Facebook Logo Test is Processing
+18:29:01.322 base.CommonAPI - Explicit wait for an element to be visible
+18:29:01.391 SwappaPages.HomePage - Facebook Logo Click Performed
+18:29:01.423 SwappaWebSite.HomePageTest - Test Passed
+18:29:04.632 SwappaWebSite.HomePageTest - Access TrustPilot Frame Test is Processing
+18:29:05.696 SwappaPages.HomePage - Scroll to view trust Pilot frame
+18:29:05.720 SwappaPages.HomePage - Switched to new frame , index 0
+18:29:05.768 base.CommonAPI - Explicit wait for an element to be Clickable
+18:29:05.858 SwappaPages.HomePage - Right button of the slider click performed 1 time(es)
+18:29:05.932 SwappaPages.HomePage - Right button of the slider click performed 2 time(es)
+18:29:06.027 SwappaPages.HomePage - Left button of the slider click performed
+18:29:06.063 SwappaWebSite.HomePageTest - Test Passed
+18:29:06.678 base.CommonAPI -                      ------Tests Class Completed-----
+18:29:06.699 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:29:09.379 SwappaPages.AddToCartPage - ShoppingCart selected
+18:29:09.644 SwappaPages.AddToCartPage - Find a good deals selected
+18:29:13.401 SwappaPages.AddToCartPage - ShoppingCart selected
+18:29:13.747 SwappaPages.AddToCartPage - Closing ShoppingCart selected
+18:29:13.995 base.CommonAPI - Screenshot captured
+18:29:14.604 base.CommonAPI -                      ------Tests Class Completed-----
+18:29:14.614 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:29:16.856 SwappaWebSite.CamerasTest - Test ClickOnCamerasThenAllCamerasThenSellBtn in process
+18:29:22.443 base.CommonAPI - Screenshot captured
+18:29:25.493 SwappaWebSite.CamerasTest - Test HoverOverAllCamerasAndBrands in process
+18:29:30.818 base.CommonAPI - Screenshot captured
+18:29:33.825 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+18:29:39.400 base.CommonAPI - Screenshot captured
+18:29:42.551 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+18:29:48.105 base.CommonAPI - Screenshot captured
+18:29:51.423 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnCanonUnderCamerasMenu in process
+18:29:56.945 base.CommonAPI - Screenshot captured
+18:29:59.730 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnDSLRCamerasUnderCamerasMenu in process
+18:30:05.279 base.CommonAPI - Screenshot captured
+18:30:08.385 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnLensesUnderCamerasMenu in process
+18:30:13.858 base.CommonAPI - Screenshot captured
+18:30:17.225 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+18:30:22.802 base.CommonAPI - Screenshot captured
+18:30:25.909 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+18:30:31.501 base.CommonAPI - Screenshot captured
+18:30:34.487 SwappaWebSite.CamerasTest - Test HoverOverCameraAndClickOnAllCameras in process
+18:30:40.003 base.CommonAPI - Screenshot captured
+18:30:49.525 base.CommonAPI - Screenshot captured
+18:30:52.448 SwappaWebSite.CamerasTest - Test HoverOverShopDSLR in process
+18:30:57.694 base.CommonAPI - Screenshot captured
+18:31:00.445 SwappaWebSite.CamerasTest - Test HoverOverShopMirrorLess Cameras in process
+18:31:05.672 base.CommonAPI - Screenshot captured
+18:31:08.592 SwappaWebSite.CamerasTest - Test HoverOverShopMoreLenses in process
+18:31:13.784 base.CommonAPI - Screenshot captured
+18:31:14.413 base.CommonAPI -                      ------Tests Class Completed-----
+18:31:14.470 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:31:16.464 SwappaWebSite.HelpSectionTest - Email Help Swappa Test Is Processing
+18:31:16.806 SwappaPages.HelpSectionPage - Help Clicked
+18:31:17.379 base.CommonAPI - Explicit wait for an element to be visible
+18:31:17.433 SwappaPages.HelpSectionPage - Email Help Clicked
+18:31:17.461 SwappaWebSite.HelpSectionTest - Assertion Passed
+18:31:17.462 SwappaWebSite.HelpSectionTest - Test Passed
+18:31:20.117 SwappaWebSite.HelpSectionTest - Send Support Ticket Test Is Processing
+18:31:20.426 SwappaPages.HelpSectionPage - Help Clicked
+18:31:21.001 base.CommonAPI - Explicit wait for an element to be visible
+18:31:21.648 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+18:31:21.703 base.CommonAPI - Explicit wait for an element to be visible
+18:31:21.704 SwappaPages.HelpSectionPage - Email is Visible
+18:31:21.805 SwappaPages.HelpSectionPage - Email Entered
+18:31:21.935 SwappaPages.HelpSectionPage - Option From DropDown Selected
+18:31:22.051 SwappaPages.HelpSectionPage - Message For Support Selected
+18:31:22.073 SwappaWebSite.HelpSectionTest - Test Passed
+18:31:24.842 SwappaWebSite.HelpSectionTest - Submit Help Request Test Is Processing
+18:31:25.134 SwappaPages.HelpSectionPage - Help Clicked
+18:31:25.704 base.CommonAPI - Explicit wait for an element to be visible
+18:31:26.392 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+18:31:26.433 SwappaWebSite.HelpSectionTest - Test Passed
+18:31:27.064 base.CommonAPI -                      ------Tests Class Completed-----
+18:31:27.069 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:31:30.410 SwappaPages.LoginPage - Click Menu Performed
+18:31:30.654 SwappaPages.LoginPage - Click Login Button From Drop Down Menu Performed
+18:31:30.655 SwappaWebSite.LoginPageTest - Test Passed
+18:31:34.676 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+18:31:34.946 SwappaPages.LoginPage - Email And Password Entered
+18:31:35.078 SwappaPages.LoginPage - Click Login Performed
+18:31:35.081 SwappaPages.LoginPage - New Window Opened
+18:31:40.555 base.CommonAPI - Test Passed
+18:31:43.902 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+18:31:44.126 SwappaPages.LoginPage - Email And Password Entered
+18:31:44.192 SwappaPages.LoginPage - Click Login Performed
+18:31:44.214 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+18:31:44.214 base.CommonAPI - Test Passed
+18:31:47.232 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+18:31:47.396 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+18:31:47.639 SwappaPages.LoginPage - Email And Password Entered
+18:31:47.774 SwappaPages.LoginPage - Click Login Performed
+18:31:47.776 SwappaPages.LoginPage - New Window Opened
+18:31:51.940 base.CommonAPI - Test Passed
+18:31:55.041 SwappaWebSite.LoginPageTest -      Testing Login Functionality With Only 3 Characters In Password is Processing
+18:31:55.176 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+18:31:55.298 SwappaPages.LoginPage - Email And Password Entered
+18:31:55.358 SwappaPages.LoginPage - Click Login Performed
+18:31:55.380 base.CommonAPI - Test Passed
+18:31:58.621 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+18:31:59.102 SwappaPages.LoginPage - Click On Forgot Password Performed
+18:31:59.130 base.CommonAPI - Page Title is "Password Reset - Swappa"
+18:31:59.130 base.CommonAPI - Test Passed
+18:32:02.410 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+18:32:03.408 SwappaPages.LoginPage - Click On Login Page Performed
+18:32:03.410 SwappaPages.LoginPage - New Window Opened
+18:32:03.424 base.CommonAPI - Page Title is "Login - Swappa"
+18:32:03.424 base.CommonAPI - Test Passed
+18:32:06.400 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+18:32:07.038 base.CommonAPI - Explicit wait for an element to be visible
+18:32:07.214 SwappaPages.LoginPage - Hover Over Google Logo Performed
+18:32:07.232 base.CommonAPI - Test Passed
+18:32:07.866 base.CommonAPI -                      ------Tests Class Completed-----
+18:32:07.872 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:32:10.779 base.CommonAPI - Test Passed
+18:32:19.210 base.CommonAPI - Screenshot captured
+18:32:19.825 base.CommonAPI -                      ------Tests Class Completed-----
+18:32:19.831 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:32:22.491 SwappaPages.PhonesPage - Hover over Phones Performed
+18:32:25.901 SwappaPages.PhonesPage - Hover over Phones Performed
+18:32:26.680 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:32:27.757 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+18:32:28.594 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+18:32:32.041 SwappaPages.PhonesPage - Hover over Phones Performed
+18:32:32.692 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:32:33.736 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+18:32:34.944 base.CommonAPI - Screenshot captured
+18:32:38.300 SwappaPages.PhonesPage - Hover over Phones Performed
+18:32:39.121 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:32:40.183 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+18:32:41.444 base.CommonAPI - Screenshot captured
+18:32:44.722 SwappaPages.PhonesPage - Hover over Phones Performed
+18:32:45.416 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:32:46.477 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+18:32:47.729 base.CommonAPI - Screenshot captured
+18:32:51.157 SwappaPages.PhonesPage - Hover over Phones Performed
+18:32:51.791 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:32:52.875 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+18:32:56.256 SwappaPages.PhonesPage - Hover over Phones Performed
+18:32:56.984 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:32:58.032 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+18:33:02.275 SwappaPages.PhonesPage - Hover over Phones Performed
+18:33:03.103 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:33:04.202 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+18:33:07.852 SwappaPages.PhonesPage - Hover over Phones Performed
+18:33:09.059 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:33:10.101 SwappaPages.PhonesPage - Scroll to view More Unlocked Apple Performed
+18:33:11.278 base.CommonAPI - Screenshot captured
+18:33:14.554 SwappaPages.PhonesPage - Hover over Phones Performed
+18:33:15.266 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:33:16.338 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+18:33:17.198 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+18:33:20.537 SwappaPages.PhonesPage - Hover over Phones Performed
+18:33:21.079 SwappaPages.PhonesPage - Click on google in dropdown Performed
+18:33:24.331 SwappaPages.PhonesPage - Hover over Phones Performed
+18:33:25.039 SwappaPages.PhonesPage - Click on Apple in dropdown menu Performed
+18:33:28.535 SwappaPages.PhonesPage - Hover over Phones Performed
+18:33:29.177 SwappaPages.PhonesPage - Click on  Samsung in dropdown menu Performed
+18:33:32.444 SwappaPages.PhonesPage - Hover over Phones Performed
+18:33:33.056 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+18:33:33.739 base.CommonAPI -                      ------Tests Class Completed-----
+18:33:33.756 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:33:36.560 SwappaPages.SearchBarPage - Click search logo Performed
+18:33:37.409 SwappaPages.SearchBarPage - Clear search Performed
+18:33:37.451 SwappaPages.SearchBarPage - type ps5 in search field and enter success
+18:33:37.476 SwappaPages.SearchBarPage - Clear search Performed
+18:33:37.531 SwappaPages.SearchBarPage - type keyboard in search field and enter success
+18:33:37.553 SwappaPages.SearchBarPage - Clear search Performed
+18:33:37.598 SwappaPages.SearchBarPage - type mouse in search field and enter success
+18:33:37.618 SwappaPages.SearchBarPage - Clear search Performed
+18:33:37.656 SwappaPages.SearchBarPage - type monitor in search field and enter success
+18:33:37.676 SwappaPages.SearchBarPage - Clear search Performed
+18:33:37.716 SwappaPages.SearchBarPage - type xbox in search field and enter success
+18:33:40.804 SwappaPages.SearchBarPage - Click search logo Performed
+18:33:40.960 SwappaPages.SearchBarPage - type search  Performed
+18:33:40.993 SwappaPages.SearchBarPage - Clear search Performed
+18:33:41.060 SwappaPages.SearchBarPage - type search  Performed
+18:33:41.082 SwappaPages.SearchBarPage - Clear search Performed
+18:33:41.137 SwappaPages.SearchBarPage - type search  Performed
+18:33:41.159 SwappaPages.SearchBarPage - Clear search Performed
+18:33:41.215 SwappaPages.SearchBarPage - type search  Performed
+18:33:41.857 base.CommonAPI -                      ------Tests Class Completed-----
+18:33:41.864 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:33:46.354 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:33:46.444 SwappaPages.SellPage - Click On Sell Button Performed
+18:33:47.209 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+18:33:47.546 SwappaPages.SellPage - Type Iphone 13 Pro in sell SearchBar Performed
+18:33:48.336 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+18:33:51.637 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:33:51.705 SwappaPages.SellPage - Click On Sell Button Performed
+18:33:52.954 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+18:33:53.151 SwappaPages.SellPage - Type MacBook Pro 10 in sell SearchBar Performed
+18:33:53.796 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+18:33:57.075 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:33:57.141 SwappaPages.SellPage - Click On Sell Button Performed
+18:33:57.703 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+18:33:57.820 SwappaPages.SellPage - Type samsung galaxy s30 in sell SearchBar Performed
+18:33:58.380 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+18:34:01.735 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:01.777 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:03.277 SwappaPages.SellPage - Click Start Selling Button Performed
+18:34:07.130 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:07.218 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:08.019 SwappaPages.SellPage - Click Fair Fees Button Performed
+18:34:11.576 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:11.632 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:12.312 SwappaPages.SellPage - Click Seller FAQ Button Performed
+18:34:16.019 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:16.074 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:16.751 SwappaPages.SellPage - Hover Over Start Selling Button Performed
+18:34:20.611 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:20.662 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:21.430 SwappaPages.SellPage - Click How To Sell Button Performed
+18:34:25.045 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:25.100 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:26.127 SwappaPages.SellPage - Scroll To View My Camera Or Lens Button Performed
+18:34:29.709 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:29.762 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:30.792 SwappaPages.SellPage - Scroll To view  Sell My Camera Or Lens Button Performed
+18:34:31.480 SwappaPages.SellPage - Click Sell My Camera Or Lens Button Performed
+18:34:35.158 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:35.208 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:36.873 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+18:34:37.052 SwappaPages.SellPage - Type samsung s22 in sell SearchBar Performed
+18:34:37.909 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+18:34:41.734 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:41.796 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:41.852 SwappaPages.SellPage - Click Close Sell Bar Button Performed
+18:34:45.325 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:45.369 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:46.203 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+18:34:46.388 base.CommonAPI - Screenshot captured
+18:34:49.968 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:50.039 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:51.571 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+18:34:51.779 base.CommonAPI - Screenshot captured
+18:34:55.153 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:34:55.205 SwappaPages.SellPage - Click On Sell Button Performed
+18:34:56.176 SwappaPages.SellPage - Click Sell My Computer Button Performed
+18:34:56.364 base.CommonAPI - Screenshot captured
+18:35:01.480 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:35:01.580 SwappaPages.SellPage - Click On Sell Button Performed
+18:35:02.886 SwappaPages.SellPage - Click Sell My Tablet Or Ipad Button Performed
+18:35:06.686 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:35:06.768 SwappaPages.SellPage - Click On Sell Button Performed
+18:35:07.862 SwappaPages.SellPage - Click Sell My Watch OR Wearable Button Performed
+18:35:11.380 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:35:11.463 SwappaPages.SellPage - Click On Sell Button Performed
+18:35:12.296 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+18:35:15.977 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:35:16.066 SwappaPages.SellPage - Click On Sell Button Performed
+18:35:16.981 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+18:35:20.545 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:35:20.600 SwappaPages.SellPage - Click On Sell Button Performed
+18:35:21.308 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+18:35:24.634 SwappaPages.SellPage - Hover Over Sell Button Performed
+18:35:24.702 SwappaPages.SellPage - Click On Sell Button Performed
+18:35:25.344 base.CommonAPI -                      ------Tests Class Completed-----
+18:35:25.353 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:35:28.704 base.CommonAPI - Explicit wait for an element to be visible
+18:35:32.778 base.CommonAPI - Explicit wait for an element to be visible
+18:35:32.817 base.CommonAPI - Explicit wait for an element to be visible
+18:35:37.618 base.CommonAPI -                      ------Tests Class Completed-----
+18:35:37.623 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:36:02.993 base.CommonAPI - Explicit wait for an element to be visible
+18:36:03.630 base.CommonAPI -                      ------Tests Class Completed-----
+18:36:03.632 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:36:07.655 SwappaPages.TabletsPage - Accessed All Tablets Section
+18:36:08.272 base.CommonAPI - Back to previous Page
+18:36:08.274 SwappaWebSite.TabletsPageTest - Test completed
+18:36:13.983 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+18:36:14.011 SwappaWebSite.TabletsPageTest - Test completed
+18:36:18.200 SwappaPages.TabletsPage - Accessed Ipad Section
+18:36:22.930 SwappaPages.TabletsPage - Accessed Samsung Section
+18:36:23.027 SwappaWebSite.TabletsPageTest - Test completed
+18:36:27.284 SwappaPages.TabletsPage - Accessed Windows Section
+18:36:28.076 base.CommonAPI - Back to previous Page
+18:36:28.076 SwappaWebSite.TabletsPageTest - Test completed
+18:36:35.926 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+18:36:36.964 SwappaPages.TabletsPage - Option Apple Is Selected 
+18:36:37.843 SwappaPages.TabletsPage - Option Amazon Alexa Is Selected 
+18:36:38.752 SwappaPages.TabletsPage - Option Reviews Is Selected 
+18:36:38.807 SwappaWebSite.TabletsPageTest - Test completed
+18:36:47.109 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+18:36:48.528 SwappaPages.TabletsPage - Option Samsung Is Selected 
+18:36:49.722 SwappaPages.TabletsPage - Option Blackberry Is Selected 
+18:36:50.628 SwappaPages.TabletsPage - Option Reviews Is Selected 
+18:36:50.704 SwappaWebSite.TabletsPageTest - Test completed
+18:36:57.601 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+18:36:58.414 SwappaPages.TabletsPage - Option Apple Is Selected 
+18:36:59.257 SwappaPages.TabletsPage - Option iOS Is Selected 
+18:37:00.037 SwappaPages.TabletsPage - Option Price (Low) Is Selected 
+18:37:00.077 SwappaWebSite.TabletsPageTest - Test completed
+18:37:00.718 base.CommonAPI -                      ------Tests Class Completed-----
+18:40:03.048 base.CommonAPI -                    -----New Class Tests Initiated-----
+18:40:06.855 SwappaWebSite.CamerasTest - Test ClickOnCamerasThenAllCamerasThenSellBtn in process
+18:40:07.468 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:08.268 SwappaPages.CamerasPage - clicked All Cameras Success
+18:40:08.269 SwappaPages.CamerasPage - Access All Cameras Success
+18:40:08.716 SwappaPages.CamerasPage - clicked Sell Button Success
+18:40:08.745 SwappaWebSite.CamerasTest - Test Passed
+18:40:11.913 SwappaWebSite.CamerasTest - Test HoverOverAllCamerasAndBrands in process
+18:40:12.910 SwappaPages.CamerasPage - clicked Cameras Success
+18:40:13.980 SwappaPages.CamerasPage - Scroll To view All Cameras and Brands Success
+18:40:14.166 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:14.199 SwappaWebSite.CamerasTest - Test Passed
+18:40:17.118 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+18:40:17.631 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:17.804 SwappaPages.CamerasPage - Hover over Action Cameras Success
+18:40:18.600 SwappaPages.CamerasPage - clicked Action Cameras Success
+18:40:18.634 SwappaWebSite.CamerasTest - Test Passed
+18:40:21.595 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+18:40:21.828 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:22.261 SwappaPages.CamerasPage - clicked All Cameras Success
+18:40:22.841 SwappaPages.CamerasPage - clicked All Cameras Success
+18:40:22.886 SwappaWebSite.CamerasTest - Test Passed
+18:40:25.801 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnCanonUnderCamerasMenu in process
+18:40:26.378 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:26.563 SwappaPages.CamerasPage - Hover Over Canon Success
+18:40:27.435 SwappaPages.CamerasPage - clicked Canon Success
+18:40:27.469 SwappaWebSite.CamerasTest - Test Passed
+18:40:30.307 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnDSLRCamerasUnderCamerasMenu in process
+18:40:30.975 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:31.174 SwappaPages.CamerasPage - Hover over DSLR Cameras Success
+18:40:31.785 SwappaPages.CamerasPage - clicked DSLR Cameras Success
+18:40:31.829 SwappaWebSite.CamerasTest - Test Passed
+18:40:34.662 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnLensesUnderCamerasMenu in process
+18:40:35.264 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:35.427 SwappaPages.CamerasPage - Hover over Lenses Success
+18:40:38.110 SwappaPages.CamerasPage - clicked Lenses Success
+18:40:38.144 SwappaWebSite.CamerasTest - Test Passed
+18:40:40.923 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+18:40:41.255 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:41.664 SwappaPages.CamerasPage - Hover over MirrorLess camera Success
+18:40:43.504 SwappaPages.CamerasPage - clicked MirrorLess Success
+18:40:43.535 SwappaWebSite.CamerasTest - Test Passed
+18:40:46.441 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+18:40:47.027 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:47.209 SwappaPages.CamerasPage - Hover over Nikon Success
+18:40:48.028 SwappaPages.CamerasPage - clicked Nikon Success
+18:40:48.055 SwappaWebSite.CamerasTest - Test Passed
+18:40:50.776 SwappaWebSite.CamerasTest - Test HoverOverCameraAndClickOnAllCameras in process
+18:40:51.403 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:51.975 SwappaPages.CamerasPage - clicked All Cameras Success
+18:40:52.011 SwappaWebSite.CamerasTest - Test Passed
+18:40:55.666 SwappaPages.CamerasPage - Hover Over All Cameras Success
+18:40:56.262 SwappaPages.CamerasPage - clicked All Cameras Success
+18:40:56.262 SwappaPages.CamerasPage - Access All Cameras Success
+18:40:56.448 SwappaPages.CamerasPage - Hover Over Actions Cameras Success
+18:40:57.116 SwappaPages.CamerasPage - Clicked Action Camera button Success
+18:40:59.969 SwappaWebSite.CamerasTest - Test HoverOverShopDSLR in process
+18:41:01.064 SwappaPages.CamerasPage - clicked Cameras Success
+18:41:02.162 SwappaPages.CamerasPage - Scroll to view DSLR cameras Success
+18:41:02.655 SwappaPages.CamerasPage - Hover Over Shop DSLR Cameras Success
+18:41:02.676 SwappaWebSite.CamerasTest - Test Passed
+18:41:05.583 SwappaWebSite.CamerasTest - Test HoverOverShopMirrorLess Cameras in process
+18:41:06.507 SwappaPages.CamerasPage - clicked Cameras Success
+18:41:07.546 SwappaPages.CamerasPage - Scroll to View MirrorLess cameras Success
+18:41:07.718 SwappaPages.CamerasPage - Hover Over Shop MirrorLess Cameras Success
+18:41:07.745 SwappaWebSite.CamerasTest - Test Passed
+18:41:10.704 SwappaWebSite.CamerasTest - Test HoverOverShopMoreLenses in process
+18:41:11.621 SwappaPages.CamerasPage - clicked Cameras Success
+18:41:12.633 SwappaPages.CamerasPage - Scroll To view Lenses Success
+18:41:12.810 SwappaPages.CamerasPage - Hover Over Shop More Lenses Success
+18:41:12.833 SwappaWebSite.CamerasTest - Test Passed
+18:41:13.522 base.CommonAPI -                      ------Tests Class Completed-----
+20:54:32.692 base.CommonAPI -                    -----New Class Tests Initiated-----
+20:54:38.219 SwappaPages.CamerasPage - clicked Cameras Success
+20:54:44.195 base.CommonAPI - Screenshot captured
+20:54:49.034 SwappaPages.CamerasPage - clicked Cameras Success
+20:55:03.068 base.CommonAPI -                      ------Tests Class Completed-----
+20:56:57.035 base.CommonAPI -                    -----New Class Tests Initiated-----
+20:57:01.454 SwappaPages.CamerasPage - Hover Over All Cameras Success
+20:57:02.616 SwappaPages.CamerasPage - clicked Action Cameras Success
+20:57:03.168 base.CommonAPI - Back to previous Page
+20:57:09.121 base.CommonAPI - Screenshot captured
+20:57:13.775 SwappaPages.CamerasPage - clicked Cameras Success
+20:57:27.903 base.CommonAPI -                      ------Tests Class Completed-----
+20:58:03.601 base.CommonAPI -                    -----New Class Tests Initiated-----
+20:58:08.000 SwappaPages.CamerasPage - Hover Over All Cameras Success
+20:58:08.897 SwappaPages.CamerasPage - clicked Action Cameras Success
+20:58:09.332 base.CommonAPI - Back to previous Page
+20:58:15.293 base.CommonAPI - Screenshot captured
+20:58:20.492 SwappaPages.CamerasPage - clicked Cameras Success
+20:58:22.614 base.CommonAPI -                      ------Tests Class Completed-----
+21:08:38.622 base.CommonAPI -                    -----New Class Tests Initiated-----
+21:08:44.014 SwappaPages.CamerasPage - clicked Cameras Success
+21:08:46.289 base.CommonAPI -                      ------Tests Class Completed-----
+21:09:38.898 base.CommonAPI -                    -----New Class Tests Initiated-----
+21:09:43.953 SwappaPages.CamerasPage - clicked Cameras Success
+21:09:46.482 base.CommonAPI -                      ------Tests Class Completed-----
+00:35:38.307 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:35:43.673 SwappaWebSite.HomePageTest - Access Articles Mentioning Swappa Test is Processing
+00:35:45.289 SwappaPages.HomePage - CNET logo CLicked
+00:35:46.394 SwappaPages.HomePage - Life Hacker logo CLicked
+00:35:46.439 SwappaPages.HomePage - TomS Guide logo CLicked With Java Script function
+00:35:46.498 SwappaPages.HomePage - Fortune logo CLicked
+00:35:46.550 SwappaPages.HomePage - WSJ logo CLicked
+00:35:46.556 SwappaWebSite.HomePageTest - Test Passed
+00:35:50.420 SwappaWebSite.HomePageTest - Access Swappa Log At The Bottom Of The Page is Processing
+00:35:51.995 base.CommonAPI - Explicit wait for an element to be visible
+00:35:52.018 SwappaWebSite.HomePageTest - Test Passed
+00:35:55.862 SwappaWebSite.HomePageTest - Click On B2B Exchange Test is Processing
+00:35:56.921 base.CommonAPI - Explicit wait for an element to be visible
+00:35:56.922 SwappaPages.HomePage - Scroll to view B2B Exchange Btn
+00:35:56.974 base.CommonAPI - Explicit wait for an element to be Clickable
+00:35:57.497 SwappaPages.HomePage - B2B Exchange Btn clicked
+00:35:57.528 SwappaWebSite.HomePageTest - Test Passed
+00:36:01.246 SwappaWebSite.HomePageTest - Access Facebook Logo Test is Processing
+00:36:02.322 base.CommonAPI - Explicit wait for an element to be visible
+00:36:02.390 SwappaPages.HomePage - Facebook Logo Click Performed
+00:36:02.416 SwappaWebSite.HomePageTest - Test Passed
+00:36:06.110 SwappaWebSite.HomePageTest - Access TrustPilot Frame Test is Processing
+00:36:07.156 SwappaPages.HomePage - Scroll to view trust Pilot frame
+00:36:07.187 SwappaPages.HomePage - Switched to new frame , index 0
+00:36:07.228 base.CommonAPI - Explicit wait for an element to be Clickable
+00:36:07.290 SwappaPages.HomePage - Right button of the slider click performed 1 time(es)
+00:36:07.338 SwappaPages.HomePage - Right button of the slider click performed 2 time(es)
+00:36:07.397 SwappaPages.HomePage - Left button of the slider click performed
+00:36:07.419 SwappaWebSite.HomePageTest - Test Passed
+00:36:08.081 base.CommonAPI -                      ------Tests Class Completed-----
+00:36:08.096 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:36:11.413 SwappaPages.AddToCartPage - ShoppingCart selected
+00:36:11.671 SwappaPages.AddToCartPage - Find a good deals selected
+00:36:15.881 SwappaPages.AddToCartPage - ShoppingCart selected
+00:36:16.200 SwappaPages.AddToCartPage - Closing ShoppingCart selected
+00:36:16.470 base.CommonAPI - Screenshot captured
+00:36:17.085 base.CommonAPI -                      ------Tests Class Completed-----
+00:36:17.086 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:36:21.106 SwappaPages.CamerasPage - clicked Cameras Success
+00:36:22.896 base.CommonAPI -                      ------Tests Class Completed-----
+00:36:22.896 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:36:26.025 SwappaWebSite.HelpSectionTest - Email Help Swappa Test Is Processing
+00:36:26.124 SwappaPages.HelpSectionPage - Help Clicked
+00:36:26.795 base.CommonAPI - Explicit wait for an element to be visible
+00:36:26.857 SwappaPages.HelpSectionPage - Email Help Clicked
+00:36:26.933 SwappaWebSite.HelpSectionTest - Assertion Passed
+00:36:26.934 SwappaWebSite.HelpSectionTest - Test Passed
+00:36:30.807 SwappaWebSite.HelpSectionTest - Send Support Ticket Test Is Processing
+00:36:31.050 SwappaPages.HelpSectionPage - Help Clicked
+00:36:31.075 base.CommonAPI - Explicit wait for an element to be visible
+00:36:31.942 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+00:36:31.984 base.CommonAPI - Explicit wait for an element to be visible
+00:36:31.984 SwappaPages.HelpSectionPage - Email is Visible
+00:36:32.060 SwappaPages.HelpSectionPage - Email Entered
+00:36:32.139 SwappaPages.HelpSectionPage - Option From DropDown Selected
+00:36:32.247 SwappaPages.HelpSectionPage - Message For Support Selected
+00:36:32.267 SwappaWebSite.HelpSectionTest - Test Passed
+00:36:35.942 SwappaWebSite.HelpSectionTest - Submit Help Request Test Is Processing
+00:36:36.002 SwappaPages.HelpSectionPage - Help Clicked
+00:36:36.583 base.CommonAPI - Explicit wait for an element to be visible
+00:36:37.415 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+00:36:37.448 SwappaWebSite.HelpSectionTest - Test Passed
+00:36:38.102 base.CommonAPI -                      ------Tests Class Completed-----
+00:36:38.103 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:36:41.269 SwappaPages.LoginPage - Click Menu Performed
+00:36:41.485 SwappaPages.LoginPage - Click Login Button From Drop Down Menu Performed
+00:36:41.485 SwappaWebSite.LoginPageTest - Test Passed
+00:36:45.217 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:36:45.481 SwappaPages.LoginPage - Email And Password Entered
+00:36:45.637 SwappaPages.LoginPage - Click Login Performed
+00:36:45.639 SwappaPages.LoginPage - New Window Opened
+00:36:50.449 base.CommonAPI - Test Passed
+00:36:54.236 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:36:54.480 SwappaPages.LoginPage - Email And Password Entered
+00:36:54.547 SwappaPages.LoginPage - Click Login Performed
+00:36:54.569 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+00:36:54.569 base.CommonAPI - Test Passed
+00:36:58.228 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+00:36:58.288 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:36:58.724 SwappaPages.LoginPage - Email And Password Entered
+00:36:58.860 SwappaPages.LoginPage - Click Login Performed
+00:36:58.862 SwappaPages.LoginPage - New Window Opened
+00:37:04.490 base.CommonAPI - Test Passed
+00:37:08.297 SwappaWebSite.LoginPageTest -      Testing Login Functionality With Only 3 Characters In Password is Processing
+00:37:08.353 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:37:08.611 SwappaPages.LoginPage - Email And Password Entered
+00:37:08.678 SwappaPages.LoginPage - Click Login Performed
+00:37:08.704 base.CommonAPI - Test Passed
+00:37:12.354 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:37:13.101 SwappaPages.LoginPage - Click On Forgot Password Performed
+00:37:13.138 base.CommonAPI - Page Title is "Password Reset - Swappa"
+00:37:13.139 base.CommonAPI - Test Passed
+00:37:16.780 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:37:17.965 SwappaPages.LoginPage - Click On Login Page Performed
+00:37:17.968 SwappaPages.LoginPage - New Window Opened
+00:37:17.973 base.CommonAPI - Page Title is "Login - Swappa"
+00:37:17.974 base.CommonAPI - Test Passed
+00:37:21.942 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:37:22.559 base.CommonAPI - Explicit wait for an element to be visible
+00:37:22.718 SwappaPages.LoginPage - Hover Over Google Logo Performed
+00:37:22.734 base.CommonAPI - Test Passed
+00:37:23.351 base.CommonAPI -                      ------Tests Class Completed-----
+00:37:23.352 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:37:27.181 base.CommonAPI - Test Passed
+00:37:32.268 base.CommonAPI - Test Passed
+00:37:32.892 base.CommonAPI -                      ------Tests Class Completed-----
+00:37:32.893 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:37:36.116 SwappaPages.PhonesPage - Hover over Phones Performed
+00:37:39.825 SwappaPages.PhonesPage - Hover over Phones Performed
+00:37:40.366 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:37:41.436 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+00:37:42.225 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+00:37:46.534 SwappaPages.PhonesPage - Hover over Phones Performed
+00:37:47.138 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:37:48.223 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+00:37:48.719 SwappaPages.PhonesPage - Click on more Unlocked google button Performed
+00:37:52.559 SwappaPages.PhonesPage - Hover over Phones Performed
+00:37:53.193 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:37:54.280 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+00:37:54.746 SwappaPages.PhonesPage - Click on more unlocked  one plus Performed
+00:37:58.604 SwappaPages.PhonesPage - Hover over Phones Performed
+00:37:59.133 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:38:00.221 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+00:38:00.734 SwappaPages.PhonesPage - Click on more unlocked samsung Performed
+00:38:04.437 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:05.017 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:38:06.078 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+00:38:10.163 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:10.741 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:38:11.780 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+00:38:15.591 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:16.231 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:38:17.297 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+00:38:21.244 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:21.804 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:38:22.852 SwappaPages.PhonesPage - Scroll to view More Unlocked Apple Performed
+00:38:23.447 SwappaPages.PhonesPage - Click on more unlocked apple Performed
+00:38:27.332 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:27.914 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:38:28.975 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+00:38:29.705 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+00:38:33.688 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:34.239 SwappaPages.PhonesPage - Click on google in dropdown Performed
+00:38:38.009 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:38.729 SwappaPages.PhonesPage - Click on Apple in dropdown menu Performed
+00:38:42.642 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:43.230 SwappaPages.PhonesPage - Click on  Samsung in dropdown menu Performed
+00:38:47.137 SwappaPages.PhonesPage - Hover over Phones Performed
+00:38:47.682 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:38:48.385 base.CommonAPI -                      ------Tests Class Completed-----
+00:38:48.386 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:38:51.691 SwappaPages.SearchBarPage - Click search logo Performed
+00:38:52.235 SwappaPages.SearchBarPage - Clear search Performed
+00:38:52.264 SwappaPages.SearchBarPage - type ps5 in search field and enter success
+00:38:52.285 SwappaPages.SearchBarPage - Clear search Performed
+00:38:52.327 SwappaPages.SearchBarPage - type keyboard in search field and enter success
+00:38:52.345 SwappaPages.SearchBarPage - Clear search Performed
+00:38:52.379 SwappaPages.SearchBarPage - type mouse in search field and enter success
+00:38:52.396 SwappaPages.SearchBarPage - Clear search Performed
+00:38:52.431 SwappaPages.SearchBarPage - type monitor in search field and enter success
+00:38:52.450 SwappaPages.SearchBarPage - Clear search Performed
+00:38:52.478 SwappaPages.SearchBarPage - type xbox in search field and enter success
+00:38:56.173 SwappaPages.SearchBarPage - Click search logo Performed
+00:38:56.505 SwappaPages.SearchBarPage - type search  Performed
+00:38:56.527 SwappaPages.SearchBarPage - Clear search Performed
+00:38:56.588 SwappaPages.SearchBarPage - type search  Performed
+00:38:56.606 SwappaPages.SearchBarPage - Clear search Performed
+00:38:56.653 SwappaPages.SearchBarPage - type search  Performed
+00:38:56.672 SwappaPages.SearchBarPage - Clear search Performed
+00:38:56.725 SwappaPages.SearchBarPage - type search  Performed
+00:38:57.382 base.CommonAPI -                      ------Tests Class Completed-----
+00:38:57.383 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:39:00.516 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:00.564 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:01.362 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+00:39:01.491 SwappaPages.SellPage - Type Iphone 13 Pro in sell SearchBar Performed
+00:39:02.179 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+00:39:06.057 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:06.128 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:07.378 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+00:39:07.462 SwappaPages.SellPage - Type MacBook Pro 10 in sell SearchBar Performed
+00:39:08.297 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+00:39:12.129 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:12.171 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:12.756 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+00:39:12.875 SwappaPages.SellPage - Type samsung galaxy s30 in sell SearchBar Performed
+00:39:13.463 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+00:39:17.188 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:17.236 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:18.315 SwappaPages.SellPage - Click Start Selling Button Performed
+00:39:22.240 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:22.293 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:22.862 SwappaPages.SellPage - Click Fair Fees Button Performed
+00:39:27.038 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:27.083 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:27.618 SwappaPages.SellPage - Click Seller FAQ Button Performed
+00:39:31.578 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:31.625 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:32.329 SwappaPages.SellPage - Hover Over Start Selling Button Performed
+00:39:36.008 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:36.142 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:36.699 SwappaPages.SellPage - Click How To Sell Button Performed
+00:39:40.806 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:40.852 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:41.884 SwappaPages.SellPage - Scroll To View My Camera Or Lens Button Performed
+00:39:45.731 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:45.772 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:46.798 SwappaPages.SellPage - Scroll To view  Sell My Camera Or Lens Button Performed
+00:39:47.213 SwappaPages.SellPage - Click Sell My Camera Or Lens Button Performed
+00:39:51.119 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:51.164 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:52.365 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+00:39:52.461 SwappaPages.SellPage - Type samsung s22 in sell SearchBar Performed
+00:39:53.048 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+00:39:57.170 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:39:57.213 SwappaPages.SellPage - Click On Sell Button Performed
+00:39:57.256 SwappaPages.SellPage - Click Close Sell Bar Button Performed
+00:40:01.506 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:01.553 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:03.559 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+00:40:03.785 base.CommonAPI - Screenshot captured
+00:40:08.042 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:08.094 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:10.741 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+00:40:10.964 base.CommonAPI - Screenshot captured
+00:40:14.705 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:14.769 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:15.493 SwappaPages.SellPage - Click Sell My Computer Button Performed
+00:40:15.708 base.CommonAPI - Screenshot captured
+00:40:20.584 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:20.629 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:23.442 SwappaPages.SellPage - Click Sell My Tablet Or Ipad Button Performed
+00:40:27.264 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:27.312 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:27.997 SwappaPages.SellPage - Click Sell My Watch OR Wearable Button Performed
+00:40:32.046 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:32.093 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:32.656 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+00:40:36.470 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:36.519 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:37.391 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+00:40:41.413 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:41.466 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:42.119 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+00:40:45.977 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:40:46.023 SwappaPages.SellPage - Click On Sell Button Performed
+00:40:46.662 base.CommonAPI -                      ------Tests Class Completed-----
+00:40:46.662 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:40:50.727 base.CommonAPI - Explicit wait for an element to be visible
+00:40:55.139 base.CommonAPI - Explicit wait for an element to be visible
+00:40:55.175 base.CommonAPI - Explicit wait for an element to be visible
+00:41:00.337 base.CommonAPI -                      ------Tests Class Completed-----
+00:41:00.338 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:41:28.055 base.CommonAPI - Explicit wait for an element to be visible
+00:41:28.688 base.CommonAPI -                      ------Tests Class Completed-----
+00:41:28.689 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:41:32.574 SwappaPages.TabletsPage - Accessed All Tablets Section
+00:41:32.967 base.CommonAPI - Back to previous Page
+00:41:32.967 SwappaWebSite.TabletsPageTest - Test completed
+00:41:38.125 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+00:41:38.166 SwappaWebSite.TabletsPageTest - Test completed
+00:41:42.584 SwappaPages.TabletsPage - Accessed Ipad Section
+00:41:48.927 SwappaPages.TabletsPage - Accessed Samsung Section
+00:41:48.982 SwappaWebSite.TabletsPageTest - Test completed
+00:41:53.711 SwappaPages.TabletsPage - Accessed Windows Section
+00:41:54.355 base.CommonAPI - Back to previous Page
+00:41:54.355 SwappaWebSite.TabletsPageTest - Test completed
+00:41:58.765 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+00:41:59.535 SwappaPages.TabletsPage - Option Apple Is Selected 
+00:42:00.043 SwappaPages.TabletsPage - Option Amazon Alexa Is Selected 
+00:42:00.564 SwappaPages.TabletsPage - Option Reviews Is Selected 
+00:42:00.589 SwappaWebSite.TabletsPageTest - Test completed
+00:42:05.517 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+00:42:06.193 SwappaPages.TabletsPage - Option Samsung Is Selected 
+00:42:07.138 SwappaPages.TabletsPage - Option Blackberry Is Selected 
+00:42:07.688 SwappaPages.TabletsPage - Option Reviews Is Selected 
+00:42:07.725 SwappaWebSite.TabletsPageTest - Test completed
+00:42:12.077 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+00:42:12.655 SwappaPages.TabletsPage - Option Apple Is Selected 
+00:42:13.143 SwappaPages.TabletsPage - Option iOS Is Selected 
+00:42:13.657 SwappaPages.TabletsPage - Option Price (Low) Is Selected 
+00:42:13.680 SwappaWebSite.TabletsPageTest - Test completed
+00:42:14.336 base.CommonAPI -                      ------Tests Class Completed-----
+00:46:26.757 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:46:30.629 SwappaWebSite.HomePageTest - Access Articles Mentioning Swappa Test is Processing
+00:46:32.317 SwappaPages.HomePage - CNET logo CLicked
+00:46:33.455 SwappaPages.HomePage - Life Hacker logo CLicked
+00:46:33.498 SwappaPages.HomePage - TomS Guide logo CLicked With Java Script function
+00:46:33.562 SwappaPages.HomePage - Fortune logo CLicked
+00:46:33.621 SwappaPages.HomePage - WSJ logo CLicked
+00:46:33.628 SwappaWebSite.HomePageTest - Test Passed
+00:46:37.678 SwappaWebSite.HomePageTest - Access Swappa Log At The Bottom Of The Page is Processing
+00:46:39.273 base.CommonAPI - Explicit wait for an element to be visible
+00:46:39.295 SwappaWebSite.HomePageTest - Test Passed
+00:46:43.140 SwappaWebSite.HomePageTest - Click On B2B Exchange Test is Processing
+00:46:44.210 base.CommonAPI - Explicit wait for an element to be visible
+00:46:44.210 SwappaPages.HomePage - Scroll to view B2B Exchange Btn
+00:46:44.258 base.CommonAPI - Explicit wait for an element to be Clickable
+00:46:44.757 SwappaPages.HomePage - B2B Exchange Btn clicked
+00:46:44.782 SwappaWebSite.HomePageTest - Test Passed
+00:46:48.430 SwappaWebSite.HomePageTest - Access Facebook Logo Test is Processing
+00:46:49.507 base.CommonAPI - Explicit wait for an element to be visible
+00:46:49.589 SwappaPages.HomePage - Facebook Logo Click Performed
+00:46:49.613 SwappaWebSite.HomePageTest - Test Passed
+00:46:53.162 SwappaWebSite.HomePageTest - Access TrustPilot Frame Test is Processing
+00:46:54.233 SwappaPages.HomePage - Scroll to view trust Pilot frame
+00:46:54.258 SwappaPages.HomePage - Switched to new frame , index 0
+00:46:54.301 base.CommonAPI - Explicit wait for an element to be Clickable
+00:46:54.361 SwappaPages.HomePage - Right button of the slider click performed 1 time(es)
+00:46:54.409 SwappaPages.HomePage - Right button of the slider click performed 2 time(es)
+00:46:54.467 SwappaPages.HomePage - Left button of the slider click performed
+00:46:54.488 SwappaWebSite.HomePageTest - Test Passed
+00:46:55.121 base.CommonAPI -                      ------Tests Class Completed-----
+00:46:55.122 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:46:58.607 SwappaPages.AddToCartPage - ShoppingCart selected
+00:46:58.864 SwappaPages.AddToCartPage - Find a good deals selected
+00:47:03.577 SwappaPages.AddToCartPage - ShoppingCart selected
+00:47:03.877 SwappaPages.AddToCartPage - Closing ShoppingCart selected
+00:47:04.121 base.CommonAPI - Screenshot captured
+00:47:04.729 base.CommonAPI -                      ------Tests Class Completed-----
+00:47:04.730 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:47:07.967 SwappaWebSite.CamerasTest - Test ClickOnCamerasThenAllCamerasThenSellBtn in process
+00:47:08.275 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:09.071 SwappaPages.CamerasPage - clicked All Cameras Success
+00:47:09.072 SwappaPages.CamerasPage - Access All Cameras Success
+00:47:09.606 SwappaPages.CamerasPage - clicked Sell Button Success
+00:47:09.628 SwappaWebSite.CamerasTest - Test Passed
+00:47:13.605 SwappaWebSite.CamerasTest - Test HoverOverAllCamerasAndBrands in process
+00:47:14.177 SwappaPages.CamerasPage - clicked Cameras Success
+00:47:15.249 SwappaPages.CamerasPage - Scroll To view All Cameras and Brands Success
+00:47:15.422 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:15.444 SwappaWebSite.CamerasTest - Test Passed
+00:47:19.170 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+00:47:19.348 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:19.527 SwappaPages.CamerasPage - Hover over Action Cameras Success
+00:47:20.281 SwappaPages.CamerasPage - clicked Action Cameras Success
+00:47:20.317 SwappaWebSite.CamerasTest - Test Passed
+00:47:23.979 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+00:47:24.303 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:24.474 SwappaPages.CamerasPage - clicked All Cameras Success
+00:47:25.382 SwappaPages.CamerasPage - clicked All Cameras Success
+00:47:25.408 SwappaWebSite.CamerasTest - Test Passed
+00:47:29.041 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnCanonUnderCamerasMenu in process
+00:47:29.222 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:29.400 SwappaPages.CamerasPage - Hover Over Canon Success
+00:47:30.190 SwappaPages.CamerasPage - clicked Canon Success
+00:47:30.216 SwappaWebSite.CamerasTest - Test Passed
+00:47:33.871 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnDSLRCamerasUnderCamerasMenu in process
+00:47:34.051 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:34.223 SwappaPages.CamerasPage - Hover over DSLR Cameras Success
+00:47:35.110 SwappaPages.CamerasPage - clicked DSLR Cameras Success
+00:47:35.138 SwappaWebSite.CamerasTest - Test Passed
+00:47:38.896 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnLensesUnderCamerasMenu in process
+00:47:39.212 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:39.396 SwappaPages.CamerasPage - Hover over Lenses Success
+00:47:42.756 SwappaPages.CamerasPage - clicked Lenses Success
+00:47:42.784 SwappaWebSite.CamerasTest - Test Passed
+00:47:46.594 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+00:47:46.912 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:47.083 SwappaPages.CamerasPage - Hover over MirrorLess camera Success
+00:47:49.515 SwappaPages.CamerasPage - clicked MirrorLess Success
+00:47:49.541 SwappaWebSite.CamerasTest - Test Passed
+00:47:53.376 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+00:47:53.605 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:53.768 SwappaPages.CamerasPage - Hover over Nikon Success
+00:47:54.578 SwappaPages.CamerasPage - clicked Nikon Success
+00:47:54.610 SwappaWebSite.CamerasTest - Test Passed
+00:47:58.288 SwappaWebSite.CamerasTest - Test HoverOverCameraAndClickOnAllCameras in process
+00:47:58.465 SwappaPages.CamerasPage - Hover Over All Cameras Success
+00:47:59.026 SwappaPages.CamerasPage - clicked All Cameras Success
+00:47:59.057 SwappaWebSite.CamerasTest - Test Passed
+00:48:03.347 SwappaPages.CamerasPage - clicked Cameras Success
+00:48:08.549 SwappaWebSite.CamerasTest - Test HoverOverShopDSLR in process
+00:48:09.254 SwappaPages.CamerasPage - clicked Cameras Success
+00:48:10.313 SwappaPages.CamerasPage - Scroll to view DSLR cameras Success
+00:48:10.643 SwappaPages.CamerasPage - Hover Over Shop DSLR Cameras Success
+00:48:10.683 SwappaWebSite.CamerasTest - Test Passed
+00:48:14.343 SwappaWebSite.CamerasTest - Test HoverOverShopMirrorLess Cameras in process
+00:48:14.957 SwappaPages.CamerasPage - clicked Cameras Success
+00:48:15.995 SwappaPages.CamerasPage - Scroll to View MirrorLess cameras Success
+00:48:16.167 SwappaPages.CamerasPage - Hover Over Shop MirrorLess Cameras Success
+00:48:16.189 SwappaWebSite.CamerasTest - Test Passed
+00:48:20.061 SwappaWebSite.CamerasTest - Test HoverOverShopMoreLenses in process
+00:48:20.697 SwappaPages.CamerasPage - clicked Cameras Success
+00:48:21.745 SwappaPages.CamerasPage - Scroll To view Lenses Success
+00:48:21.920 SwappaPages.CamerasPage - Hover Over Shop More Lenses Success
+00:48:21.945 SwappaWebSite.CamerasTest - Test Passed
+00:48:22.585 base.CommonAPI -                      ------Tests Class Completed-----
+00:48:22.585 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:48:25.600 SwappaWebSite.HelpSectionTest - Email Help Swappa Test Is Processing
+00:48:25.690 SwappaPages.HelpSectionPage - Help Clicked
+00:48:26.377 base.CommonAPI - Explicit wait for an element to be visible
+00:48:26.447 SwappaPages.HelpSectionPage - Email Help Clicked
+00:48:26.500 SwappaWebSite.HelpSectionTest - Assertion Passed
+00:48:26.502 SwappaWebSite.HelpSectionTest - Test Passed
+00:48:30.638 SwappaWebSite.HelpSectionTest - Send Support Ticket Test Is Processing
+00:48:30.737 SwappaPages.HelpSectionPage - Help Clicked
+00:48:30.888 base.CommonAPI - Explicit wait for an element to be visible
+00:48:31.718 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+00:48:31.759 base.CommonAPI - Explicit wait for an element to be visible
+00:48:31.759 SwappaPages.HelpSectionPage - Email is Visible
+00:48:31.831 SwappaPages.HelpSectionPage - Email Entered
+00:48:31.902 SwappaPages.HelpSectionPage - Option From DropDown Selected
+00:48:32.009 SwappaPages.HelpSectionPage - Message For Support Selected
+00:48:32.025 SwappaWebSite.HelpSectionTest - Test Passed
+00:48:35.567 SwappaWebSite.HelpSectionTest - Submit Help Request Test Is Processing
+00:48:35.788 SwappaPages.HelpSectionPage - Help Clicked
+00:48:35.821 base.CommonAPI - Explicit wait for an element to be visible
+00:48:36.639 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+00:48:36.672 SwappaWebSite.HelpSectionTest - Test Passed
+00:48:37.313 base.CommonAPI -                      ------Tests Class Completed-----
+00:48:37.314 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:48:40.887 SwappaPages.LoginPage - Click Menu Performed
+00:48:41.119 SwappaPages.LoginPage - Click Login Button From Drop Down Menu Performed
+00:48:41.120 SwappaWebSite.LoginPageTest - Test Passed
+00:48:45.093 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:48:45.378 SwappaPages.LoginPage - Email And Password Entered
+00:48:45.535 SwappaPages.LoginPage - Click Login Performed
+00:48:45.538 SwappaPages.LoginPage - New Window Opened
+00:48:50.827 base.CommonAPI - Test Passed
+00:48:54.572 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:48:54.823 SwappaPages.LoginPage - Email And Password Entered
+00:48:54.881 SwappaPages.LoginPage - Click Login Performed
+00:48:54.903 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+00:48:54.904 base.CommonAPI - Test Passed
+00:48:58.452 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+00:48:58.507 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:48:58.771 SwappaPages.LoginPage - Email And Password Entered
+00:48:58.914 SwappaPages.LoginPage - Click Login Performed
+00:48:58.916 SwappaPages.LoginPage - New Window Opened
+00:49:03.577 base.CommonAPI - Test Passed
+00:49:07.364 SwappaWebSite.LoginPageTest -      Testing Login Functionality With Only 3 Characters In Password is Processing
+00:49:07.418 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:49:07.714 SwappaPages.LoginPage - Email And Password Entered
+00:49:07.768 SwappaPages.LoginPage - Click Login Performed
+00:49:08.038 base.CommonAPI - Screenshot captured
+00:49:11.897 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:49:12.353 SwappaPages.LoginPage - Click On Forgot Password Performed
+00:49:12.363 base.CommonAPI - Page Title is "Password Reset - Swappa"
+00:49:12.363 base.CommonAPI - Test Passed
+00:49:16.288 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:49:17.260 SwappaPages.LoginPage - Click On Login Page Performed
+00:49:17.263 SwappaPages.LoginPage - New Window Opened
+00:49:17.271 base.CommonAPI - Page Title is "Login - Swappa"
+00:49:17.272 base.CommonAPI - Test Passed
+00:49:21.083 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+00:49:21.238 base.CommonAPI - Explicit wait for an element to be visible
+00:49:21.415 SwappaPages.LoginPage - Hover Over Google Logo Performed
+00:49:21.434 base.CommonAPI - Test Passed
+00:49:22.100 base.CommonAPI -                      ------Tests Class Completed-----
+00:49:22.101 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:49:25.991 base.CommonAPI - Test Passed
+00:49:31.215 base.CommonAPI - Test Passed
+00:49:31.881 base.CommonAPI -                      ------Tests Class Completed-----
+00:49:31.882 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:49:35.271 SwappaPages.PhonesPage - Hover over Phones Performed
+00:49:39.112 SwappaPages.PhonesPage - Hover over Phones Performed
+00:49:39.667 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:49:40.732 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+00:49:41.520 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+00:49:45.664 SwappaPages.PhonesPage - Hover over Phones Performed
+00:49:46.224 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:49:47.270 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+00:49:47.814 SwappaPages.PhonesPage - Click on more Unlocked google button Performed
+00:49:51.985 SwappaPages.PhonesPage - Hover over Phones Performed
+00:49:52.536 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:49:53.609 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+00:49:54.070 SwappaPages.PhonesPage - Click on more unlocked  one plus Performed
+00:49:58.334 SwappaPages.PhonesPage - Hover over Phones Performed
+00:49:58.880 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:49:59.916 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+00:50:00.495 SwappaPages.PhonesPage - Click on more unlocked samsung Performed
+00:50:05.130 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:05.831 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:50:06.872 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+00:50:11.524 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:12.179 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:50:13.230 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+00:50:17.667 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:18.687 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:50:19.771 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+00:50:23.690 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:24.353 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:50:25.409 SwappaPages.PhonesPage - Scroll to view More Unlocked Apple Performed
+00:50:26.124 SwappaPages.PhonesPage - Click on more unlocked apple Performed
+00:50:30.173 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:30.854 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:50:31.905 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+00:50:32.622 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+00:50:36.535 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:37.274 SwappaPages.PhonesPage - Click on google in dropdown Performed
+00:50:41.160 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:41.812 SwappaPages.PhonesPage - Click on Apple in dropdown menu Performed
+00:50:45.567 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:46.152 SwappaPages.PhonesPage - Click on  Samsung in dropdown menu Performed
+00:50:49.996 SwappaPages.PhonesPage - Hover over Phones Performed
+00:50:50.527 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+00:50:51.200 base.CommonAPI -                      ------Tests Class Completed-----
+00:50:51.201 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:50:54.329 SwappaPages.SearchBarPage - Click search logo Performed
+00:50:55.119 SwappaPages.SearchBarPage - Clear search Performed
+00:50:55.156 SwappaPages.SearchBarPage - type ps5 in search field and enter success
+00:50:55.174 SwappaPages.SearchBarPage - Clear search Performed
+00:50:55.214 SwappaPages.SearchBarPage - type keyboard in search field and enter success
+00:50:55.231 SwappaPages.SearchBarPage - Clear search Performed
+00:50:55.266 SwappaPages.SearchBarPage - type mouse in search field and enter success
+00:50:55.287 SwappaPages.SearchBarPage - Clear search Performed
+00:50:55.322 SwappaPages.SearchBarPage - type monitor in search field and enter success
+00:50:55.340 SwappaPages.SearchBarPage - Clear search Performed
+00:50:55.371 SwappaPages.SearchBarPage - type xbox in search field and enter success
+00:50:59.009 SwappaPages.SearchBarPage - Click search logo Performed
+00:50:59.288 SwappaPages.SearchBarPage - type search  Performed
+00:50:59.313 SwappaPages.SearchBarPage - Clear search Performed
+00:50:59.362 SwappaPages.SearchBarPage - type search  Performed
+00:50:59.379 SwappaPages.SearchBarPage - Clear search Performed
+00:50:59.427 SwappaPages.SearchBarPage - type search  Performed
+00:50:59.444 SwappaPages.SearchBarPage - Clear search Performed
+00:50:59.494 SwappaPages.SearchBarPage - type search  Performed
+00:51:00.138 base.CommonAPI -                      ------Tests Class Completed-----
+00:51:00.139 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:51:03.312 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:03.361 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:04.211 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+00:51:04.339 SwappaPages.SellPage - Type Iphone 13 Pro in sell SearchBar Performed
+00:51:04.997 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+00:51:08.811 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:08.858 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:10.238 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+00:51:10.343 SwappaPages.SellPage - Type MacBook Pro 10 in sell SearchBar Performed
+00:51:11.023 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+00:51:15.045 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:15.104 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:15.998 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+00:51:16.119 SwappaPages.SellPage - Type samsung galaxy s30 in sell SearchBar Performed
+00:51:16.773 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+00:51:21.145 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:21.193 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:22.220 SwappaPages.SellPage - Click Start Selling Button Performed
+00:51:26.228 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:26.276 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:27.041 SwappaPages.SellPage - Click Fair Fees Button Performed
+00:51:31.091 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:31.146 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:31.838 SwappaPages.SellPage - Click Seller FAQ Button Performed
+00:51:35.714 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:35.761 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:36.450 SwappaPages.SellPage - Hover Over Start Selling Button Performed
+00:51:40.426 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:40.474 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:41.201 SwappaPages.SellPage - Click How To Sell Button Performed
+00:51:45.057 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:45.103 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:46.136 SwappaPages.SellPage - Scroll To View My Camera Or Lens Button Performed
+00:51:50.085 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:50.131 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:51.157 SwappaPages.SellPage - Scroll To view  Sell My Camera Or Lens Button Performed
+00:51:51.577 SwappaPages.SellPage - Click Sell My Camera Or Lens Button Performed
+00:51:55.513 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:51:55.560 SwappaPages.SellPage - Click On Sell Button Performed
+00:51:56.767 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+00:51:56.876 SwappaPages.SellPage - Type samsung s22 in sell SearchBar Performed
+00:51:57.417 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+00:52:01.364 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:01.420 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:01.532 SwappaPages.SellPage - Click Close Sell Bar Button Performed
+00:52:05.740 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:05.787 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:06.645 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+00:52:10.898 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:10.955 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:12.237 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+00:52:16.055 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:16.105 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:16.777 SwappaPages.SellPage - Click Sell My Computer Button Performed
+00:52:20.820 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:20.868 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:21.534 SwappaPages.SellPage - Click Sell My Tablet Or Ipad Button Performed
+00:52:25.374 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:25.422 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:26.032 SwappaPages.SellPage - Click Sell My Watch OR Wearable Button Performed
+00:52:30.017 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:30.071 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:30.624 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+00:52:34.492 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:34.683 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:35.494 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+00:52:39.352 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:39.399 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:40.033 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+00:52:44.057 SwappaPages.SellPage - Hover Over Sell Button Performed
+00:52:44.111 SwappaPages.SellPage - Click On Sell Button Performed
+00:52:44.768 base.CommonAPI -                      ------Tests Class Completed-----
+00:52:44.769 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:52:48.837 base.CommonAPI - Explicit wait for an element to be visible
+00:52:53.466 base.CommonAPI - Explicit wait for an element to be visible
+00:52:53.502 base.CommonAPI - Explicit wait for an element to be visible
+00:52:58.378 base.CommonAPI -                      ------Tests Class Completed-----
+00:52:58.379 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:53:27.752 base.CommonAPI - Explicit wait for an element to be visible
+00:53:28.384 base.CommonAPI -                      ------Tests Class Completed-----
+00:53:28.384 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:53:32.480 SwappaPages.TabletsPage - Accessed All Tablets Section
+00:53:32.926 base.CommonAPI - Back to previous Page
+00:53:32.926 SwappaWebSite.TabletsPageTest - Test completed
+00:53:38.379 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+00:53:38.403 SwappaWebSite.TabletsPageTest - Test completed
+00:53:43.464 SwappaPages.TabletsPage - Accessed Ipad Section
+00:53:48.688 SwappaPages.TabletsPage - Accessed Samsung Section
+00:53:48.747 SwappaWebSite.TabletsPageTest - Test completed
+00:53:53.388 SwappaPages.TabletsPage - Accessed Windows Section
+00:53:53.782 base.CommonAPI - Back to previous Page
+00:53:53.782 SwappaWebSite.TabletsPageTest - Test completed
+00:53:58.329 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+00:53:59.015 SwappaPages.TabletsPage - Option Apple Is Selected 
+00:53:59.564 SwappaPages.TabletsPage - Option Amazon Alexa Is Selected 
+00:54:00.121 SwappaPages.TabletsPage - Option Reviews Is Selected 
+00:54:00.146 SwappaWebSite.TabletsPageTest - Test completed
+00:54:04.778 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+00:54:05.644 SwappaPages.TabletsPage - Option Samsung Is Selected 
+00:54:06.225 SwappaPages.TabletsPage - Option Blackberry Is Selected 
+00:54:07.166 SwappaPages.TabletsPage - Option Reviews Is Selected 
+00:54:07.204 SwappaWebSite.TabletsPageTest - Test completed
+00:54:11.994 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+00:54:12.642 SwappaPages.TabletsPage - Option Apple Is Selected 
+00:54:13.220 SwappaPages.TabletsPage - Option iOS Is Selected 
+00:54:13.825 SwappaPages.TabletsPage - Option Price (Low) Is Selected 
+00:54:13.854 SwappaWebSite.TabletsPageTest - Test completed
+00:54:14.502 base.CommonAPI -                      ------Tests Class Completed-----
+00:57:53.777 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:57:58.179 SwappaWebSite.HomePageTest - Access Articles Mentioning Swappa Test is Processing
+00:57:59.898 SwappaPages.HomePage - CNET logo CLicked
+00:58:01.099 SwappaPages.HomePage - Life Hacker logo CLicked
+00:58:01.146 SwappaPages.HomePage - TomS Guide logo CLicked With Java Script function
+00:58:01.210 SwappaPages.HomePage - Fortune logo CLicked
+00:58:01.271 SwappaPages.HomePage - WSJ logo CLicked
+00:58:01.277 SwappaWebSite.HomePageTest - Test Passed
+00:58:05.259 SwappaWebSite.HomePageTest - Access Swappa Log At The Bottom Of The Page is Processing
+00:58:07.045 base.CommonAPI - Explicit wait for an element to be visible
+00:58:07.149 SwappaWebSite.HomePageTest - Test Passed
+00:58:10.704 SwappaWebSite.HomePageTest - Click On B2B Exchange Test is Processing
+00:58:11.803 base.CommonAPI - Explicit wait for an element to be visible
+00:58:11.804 SwappaPages.HomePage - Scroll to view B2B Exchange Btn
+00:58:11.871 base.CommonAPI - Explicit wait for an element to be Clickable
+00:58:13.221 SwappaPages.HomePage - B2B Exchange Btn clicked
+00:58:13.272 SwappaWebSite.HomePageTest - Test Passed
+00:58:17.104 SwappaWebSite.HomePageTest - Access Facebook Logo Test is Processing
+00:58:18.170 base.CommonAPI - Explicit wait for an element to be visible
+00:58:18.257 SwappaPages.HomePage - Facebook Logo Click Performed
+00:58:18.287 SwappaWebSite.HomePageTest - Test Passed
+00:58:21.957 SwappaWebSite.HomePageTest - Access TrustPilot Frame Test is Processing
+00:58:22.978 SwappaPages.HomePage - Scroll to view trust Pilot frame
+00:58:23.010 SwappaPages.HomePage - Switched to new frame , index 0
+00:58:23.066 base.CommonAPI - Explicit wait for an element to be Clickable
+00:58:23.150 SwappaPages.HomePage - Right button of the slider click performed 1 time(es)
+00:58:23.203 SwappaPages.HomePage - Right button of the slider click performed 2 time(es)
+00:58:23.265 SwappaPages.HomePage - Left button of the slider click performed
+00:58:23.287 SwappaWebSite.HomePageTest - Test Passed
+00:58:23.918 base.CommonAPI -                      ------Tests Class Completed-----
+00:58:23.954 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:58:27.355 SwappaPages.AddToCartPage - ShoppingCart selected
+00:58:27.601 SwappaPages.AddToCartPage - Find a good deals selected
+00:58:32.435 SwappaPages.AddToCartPage - ShoppingCart selected
+00:58:32.735 SwappaPages.AddToCartPage - Closing ShoppingCart selected
+00:58:33.001 base.CommonAPI - Screenshot captured
+00:58:33.602 base.CommonAPI -                      ------Tests Class Completed-----
+00:58:33.610 base.CommonAPI -                    -----New Class Tests Initiated-----
+00:58:36.625 SwappaWebSite.CamerasTest - Test ClickOnCamerasThenAllCamerasThenSellBtn in process
+00:58:42.098 base.CommonAPI - Screenshot captured
+00:58:45.722 SwappaWebSite.CamerasTest - Test HoverOverAllCamerasAndBrands in process
+00:58:50.897 base.CommonAPI - Screenshot captured
+00:58:54.643 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+00:59:00.157 base.CommonAPI - Screenshot captured
+00:59:03.967 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+00:59:09.483 base.CommonAPI - Screenshot captured
+00:59:12.992 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnCanonUnderCamerasMenu in process
+00:59:18.498 base.CommonAPI - Screenshot captured
+00:59:22.077 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnDSLRCamerasUnderCamerasMenu in process
+00:59:27.598 base.CommonAPI - Screenshot captured
+00:59:31.735 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnLensesUnderCamerasMenu in process
+00:59:37.336 base.CommonAPI - Screenshot captured
+00:59:40.785 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+00:59:46.406 base.CommonAPI - Screenshot captured
+00:59:50.207 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+00:59:55.762 base.CommonAPI - Screenshot captured
+00:59:59.339 SwappaWebSite.CamerasTest - Test HoverOverCameraAndClickOnAllCameras in process
+01:00:04.822 base.CommonAPI - Screenshot captured
+01:00:13.568 base.CommonAPI - Screenshot captured
+01:00:17.584 SwappaWebSite.CamerasTest - Test HoverOverShopDSLR in process
+01:00:22.781 base.CommonAPI - Screenshot captured
+01:00:26.240 SwappaWebSite.CamerasTest - Test HoverOverShopMirrorLess Cameras in process
+01:00:31.444 base.CommonAPI - Screenshot captured
+01:00:34.894 SwappaWebSite.CamerasTest - Test HoverOverShopMoreLenses in process
+01:00:40.070 base.CommonAPI - Screenshot captured
+01:00:40.671 base.CommonAPI -                      ------Tests Class Completed-----
+01:00:40.715 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:00:43.529 SwappaWebSite.HelpSectionTest - Email Help Swappa Test Is Processing
+01:00:43.578 SwappaPages.HelpSectionPage - Help Clicked
+01:00:44.185 base.CommonAPI - Explicit wait for an element to be visible
+01:00:44.258 SwappaPages.HelpSectionPage - Email Help Clicked
+01:00:44.275 SwappaWebSite.HelpSectionTest - Assertion Passed
+01:00:44.275 SwappaWebSite.HelpSectionTest - Test Passed
+01:00:47.801 SwappaWebSite.HelpSectionTest - Send Support Ticket Test Is Processing
+01:00:47.849 SwappaPages.HelpSectionPage - Help Clicked
+01:00:48.419 base.CommonAPI - Explicit wait for an element to be visible
+01:00:49.366 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+01:00:49.399 base.CommonAPI - Explicit wait for an element to be visible
+01:00:49.399 SwappaPages.HelpSectionPage - Email is Visible
+01:00:49.491 SwappaPages.HelpSectionPage - Email Entered
+01:00:49.600 SwappaPages.HelpSectionPage - Option From DropDown Selected
+01:00:49.710 SwappaPages.HelpSectionPage - Message For Support Selected
+01:00:49.730 SwappaWebSite.HelpSectionTest - Test Passed
+01:00:53.601 SwappaWebSite.HelpSectionTest - Submit Help Request Test Is Processing
+01:00:53.685 SwappaPages.HelpSectionPage - Help Clicked
+01:00:54.298 base.CommonAPI - Explicit wait for an element to be visible
+01:00:55.116 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+01:00:55.154 SwappaWebSite.HelpSectionTest - Test Passed
+01:00:55.777 base.CommonAPI -                      ------Tests Class Completed-----
+01:00:55.783 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:00:58.827 SwappaPages.LoginPage - Click Menu Performed
+01:00:59.052 SwappaPages.LoginPage - Click Login Button From Drop Down Menu Performed
+01:00:59.052 SwappaWebSite.LoginPageTest - Test Passed
+01:01:02.722 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:01:02.894 SwappaPages.LoginPage - Email And Password Entered
+01:01:03.044 SwappaPages.LoginPage - Click Login Performed
+01:01:03.046 SwappaPages.LoginPage - New Window Opened
+01:01:08.462 base.CommonAPI - Test Passed
+01:01:12.205 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:01:12.352 SwappaPages.LoginPage - Email And Password Entered
+01:01:12.414 SwappaPages.LoginPage - Click Login Performed
+01:01:12.434 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+01:01:12.434 base.CommonAPI - Test Passed
+01:01:16.126 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+01:01:16.184 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:01:16.339 SwappaPages.LoginPage - Email And Password Entered
+01:01:16.488 SwappaPages.LoginPage - Click Login Performed
+01:01:16.489 SwappaPages.LoginPage - New Window Opened
+01:01:20.612 base.CommonAPI - Test Passed
+01:01:24.252 SwappaWebSite.LoginPageTest -      Testing Login Functionality With Only 3 Characters In Password is Processing
+01:01:24.340 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:01:24.502 SwappaPages.LoginPage - Email And Password Entered
+01:01:24.544 SwappaPages.LoginPage - Click Login Performed
+01:01:24.573 base.CommonAPI - Test Passed
+01:01:28.466 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:01:28.965 SwappaPages.LoginPage - Click On Forgot Password Performed
+01:01:29.052 base.CommonAPI - Page Title is "Password Reset - Swappa"
+01:01:29.052 base.CommonAPI - Test Passed
+01:01:32.793 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:01:33.974 SwappaPages.LoginPage - Click On Login Page Performed
+01:01:33.976 SwappaPages.LoginPage - New Window Opened
+01:01:33.987 base.CommonAPI - Page Title is "Login - Swappa"
+01:01:33.988 base.CommonAPI - Test Passed
+01:01:37.609 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:01:38.221 base.CommonAPI - Explicit wait for an element to be visible
+01:01:38.400 SwappaPages.LoginPage - Hover Over Google Logo Performed
+01:01:38.422 base.CommonAPI - Test Passed
+01:01:39.055 base.CommonAPI -                      ------Tests Class Completed-----
+01:01:39.062 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:01:42.820 base.CommonAPI - Test Passed
+01:01:51.770 base.CommonAPI - Screenshot captured
+01:01:52.375 base.CommonAPI -                      ------Tests Class Completed-----
+01:01:52.385 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:01:55.430 SwappaPages.PhonesPage - Hover over Phones Performed
+01:01:59.231 SwappaPages.PhonesPage - Hover over Phones Performed
+01:01:59.768 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:00.842 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+01:02:01.677 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+01:02:05.798 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:06.430 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:07.499 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+01:02:08.700 base.CommonAPI - Screenshot captured
+01:02:12.422 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:12.945 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:14.000 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+01:02:15.248 base.CommonAPI - Screenshot captured
+01:02:19.035 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:19.639 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:20.804 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+01:02:22.051 base.CommonAPI - Screenshot captured
+01:02:25.700 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:26.271 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:27.310 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+01:02:31.260 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:31.954 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:33.083 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+01:02:37.030 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:37.691 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:38.793 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+01:02:42.948 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:43.741 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:44.840 SwappaPages.PhonesPage - Scroll to view More Unlocked Apple Performed
+01:02:46.058 base.CommonAPI - Screenshot captured
+01:02:50.180 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:51.009 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:02:52.094 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+01:02:52.888 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+01:02:57.006 SwappaPages.PhonesPage - Hover over Phones Performed
+01:02:57.694 SwappaPages.PhonesPage - Click on google in dropdown Performed
+01:03:01.880 SwappaPages.PhonesPage - Hover over Phones Performed
+01:03:02.766 SwappaPages.PhonesPage - Click on Apple in dropdown menu Performed
+01:03:06.945 SwappaPages.PhonesPage - Hover over Phones Performed
+01:03:08.200 SwappaPages.PhonesPage - Click on  Samsung in dropdown menu Performed
+01:03:12.111 SwappaPages.PhonesPage - Hover over Phones Performed
+01:03:12.831 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:03:13.519 base.CommonAPI -                      ------Tests Class Completed-----
+01:03:13.534 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:03:16.486 SwappaPages.SearchBarPage - Click search logo Performed
+01:03:17.060 SwappaPages.SearchBarPage - Clear search Performed
+01:03:17.102 SwappaPages.SearchBarPage - type ps5 in search field and enter success
+01:03:17.122 SwappaPages.SearchBarPage - Clear search Performed
+01:03:17.169 SwappaPages.SearchBarPage - type keyboard in search field and enter success
+01:03:17.196 SwappaPages.SearchBarPage - Clear search Performed
+01:03:17.246 SwappaPages.SearchBarPage - type mouse in search field and enter success
+01:03:17.275 SwappaPages.SearchBarPage - Clear search Performed
+01:03:17.334 SwappaPages.SearchBarPage - type monitor in search field and enter success
+01:03:17.358 SwappaPages.SearchBarPage - Clear search Performed
+01:03:17.402 SwappaPages.SearchBarPage - type xbox in search field and enter success
+01:03:21.162 SwappaPages.SearchBarPage - Click search logo Performed
+01:03:21.268 SwappaPages.SearchBarPage - type search  Performed
+01:03:21.295 SwappaPages.SearchBarPage - Clear search Performed
+01:03:21.336 SwappaPages.SearchBarPage - type search  Performed
+01:03:21.355 SwappaPages.SearchBarPage - Clear search Performed
+01:03:21.399 SwappaPages.SearchBarPage - type search  Performed
+01:03:21.418 SwappaPages.SearchBarPage - Clear search Performed
+01:03:21.461 SwappaPages.SearchBarPage - type search  Performed
+01:03:22.084 base.CommonAPI -                      ------Tests Class Completed-----
+01:03:22.087 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:03:25.296 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:03:25.349 SwappaPages.SellPage - Click On Sell Button Performed
+01:03:26.281 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+01:03:26.464 SwappaPages.SellPage - Type Iphone 13 Pro in sell SearchBar Performed
+01:03:27.101 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+01:03:30.826 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:03:30.879 SwappaPages.SellPage - Click On Sell Button Performed
+01:03:32.172 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+01:03:32.312 SwappaPages.SellPage - Type MacBook Pro 10 in sell SearchBar Performed
+01:03:32.952 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+01:03:36.697 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:03:36.745 SwappaPages.SellPage - Click On Sell Button Performed
+01:03:37.278 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+01:03:37.425 SwappaPages.SellPage - Type samsung galaxy s30 in sell SearchBar Performed
+01:03:38.106 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+01:03:42.408 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:03:42.451 SwappaPages.SellPage - Click On Sell Button Performed
+01:03:43.313 SwappaPages.SellPage - Click Start Selling Button Performed
+01:03:47.480 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:03:47.529 SwappaPages.SellPage - Click On Sell Button Performed
+01:03:48.176 SwappaPages.SellPage - Click Fair Fees Button Performed
+01:03:52.234 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:03:52.283 SwappaPages.SellPage - Click On Sell Button Performed
+01:03:52.858 SwappaPages.SellPage - Click Seller FAQ Button Performed
+01:03:56.686 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:03:56.735 SwappaPages.SellPage - Click On Sell Button Performed
+01:03:57.461 SwappaPages.SellPage - Hover Over Start Selling Button Performed
+01:04:01.314 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:01.415 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:02.090 SwappaPages.SellPage - Click How To Sell Button Performed
+01:04:06.785 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:06.843 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:07.880 SwappaPages.SellPage - Scroll To View My Camera Or Lens Button Performed
+01:04:12.387 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:12.446 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:13.480 SwappaPages.SellPage - Scroll To view  Sell My Camera Or Lens Button Performed
+01:04:13.992 SwappaPages.SellPage - Click Sell My Camera Or Lens Button Performed
+01:04:18.031 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:18.079 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:19.478 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+01:04:19.665 SwappaPages.SellPage - Type samsung s22 in sell SearchBar Performed
+01:04:20.258 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+01:04:24.193 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:24.246 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:24.300 SwappaPages.SellPage - Click Close Sell Bar Button Performed
+01:04:28.041 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:28.092 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:29.034 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+01:04:32.791 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:32.841 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:34.122 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+01:04:38.037 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:38.083 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:38.894 SwappaPages.SellPage - Click Sell My Computer Button Performed
+01:04:42.927 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:42.985 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:45.375 SwappaPages.SellPage - Click Sell My Tablet Or Ipad Button Performed
+01:04:49.762 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:49.813 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:50.469 SwappaPages.SellPage - Click Sell My Watch OR Wearable Button Performed
+01:04:54.211 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:54.264 SwappaPages.SellPage - Click On Sell Button Performed
+01:04:54.813 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+01:04:59.819 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:04:59.908 SwappaPages.SellPage - Click On Sell Button Performed
+01:05:00.820 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+01:05:04.580 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:05:04.625 SwappaPages.SellPage - Click On Sell Button Performed
+01:05:05.288 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+01:05:09.631 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:05:09.695 SwappaPages.SellPage - Click On Sell Button Performed
+01:05:10.328 base.CommonAPI -                      ------Tests Class Completed-----
+01:05:10.337 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:05:14.755 base.CommonAPI - Explicit wait for an element to be visible
+01:05:22.108 base.CommonAPI - Explicit wait for an element to be visible
+01:05:22.156 base.CommonAPI - Explicit wait for an element to be visible
+01:05:27.484 base.CommonAPI -                      ------Tests Class Completed-----
+01:05:27.490 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:05:55.366 base.CommonAPI - Explicit wait for an element to be visible
+01:05:56.025 base.CommonAPI -                      ------Tests Class Completed-----
+01:05:56.031 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:05:59.895 SwappaPages.TabletsPage - Accessed All Tablets Section
+01:06:00.375 base.CommonAPI - Back to previous Page
+01:06:00.375 SwappaWebSite.TabletsPageTest - Test completed
+01:06:05.568 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+01:06:05.601 SwappaWebSite.TabletsPageTest - Test completed
+01:06:09.781 SwappaPages.TabletsPage - Accessed Ipad Section
+01:06:15.082 SwappaPages.TabletsPage - Accessed Samsung Section
+01:06:15.226 SwappaWebSite.TabletsPageTest - Test completed
+01:06:20.173 SwappaPages.TabletsPage - Accessed Windows Section
+01:06:20.645 base.CommonAPI - Back to previous Page
+01:06:20.645 SwappaWebSite.TabletsPageTest - Test completed
+01:06:25.064 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+01:06:25.890 SwappaPages.TabletsPage - Option Apple Is Selected 
+01:06:26.498 SwappaPages.TabletsPage - Option Amazon Alexa Is Selected 
+01:06:27.067 SwappaPages.TabletsPage - Option Reviews Is Selected 
+01:06:27.120 SwappaWebSite.TabletsPageTest - Test completed
+01:06:31.321 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+01:06:32.046 SwappaPages.TabletsPage - Option Samsung Is Selected 
+01:06:32.626 SwappaPages.TabletsPage - Option Blackberry Is Selected 
+01:06:33.207 SwappaPages.TabletsPage - Option Reviews Is Selected 
+01:06:33.269 SwappaWebSite.TabletsPageTest - Test completed
+01:06:37.500 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+01:06:38.084 SwappaPages.TabletsPage - Option Apple Is Selected 
+01:06:38.715 SwappaPages.TabletsPage - Option iOS Is Selected 
+01:06:39.360 SwappaPages.TabletsPage - Option Price (Low) Is Selected 
+01:06:39.410 SwappaWebSite.TabletsPageTest - Test completed
+01:06:40.032 base.CommonAPI -                      ------Tests Class Completed-----
+01:43:17.958 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:43:22.331 SwappaWebSite.HomePageTest - Access Articles Mentioning Swappa Test is Processing
+01:43:24.077 SwappaPages.HomePage - CNET logo CLicked
+01:43:25.240 SwappaPages.HomePage - Life Hacker logo CLicked
+01:43:25.298 SwappaPages.HomePage - TomS Guide logo CLicked With Java Script function
+01:43:25.369 SwappaPages.HomePage - Fortune logo CLicked
+01:43:25.448 SwappaPages.HomePage - WSJ logo CLicked
+01:43:25.454 SwappaWebSite.HomePageTest - Test Passed
+01:43:29.577 SwappaWebSite.HomePageTest - Access Swappa Log At The Bottom Of The Page is Processing
+01:43:31.375 base.CommonAPI - Explicit wait for an element to be visible
+01:43:31.406 SwappaWebSite.HomePageTest - Test Passed
+01:43:35.250 SwappaWebSite.HomePageTest - Click On B2B Exchange Test is Processing
+01:43:36.345 base.CommonAPI - Explicit wait for an element to be visible
+01:43:36.346 SwappaPages.HomePage - Scroll to view B2B Exchange Btn
+01:43:36.427 base.CommonAPI - Explicit wait for an element to be Clickable
+01:43:37.153 SwappaPages.HomePage - B2B Exchange Btn clicked
+01:43:37.161 SwappaWebSite.HomePageTest - Test Passed
+01:43:40.878 SwappaWebSite.HomePageTest - Access Facebook Logo Test is Processing
+01:43:41.945 base.CommonAPI - Explicit wait for an element to be visible
+01:43:42.017 SwappaPages.HomePage - Facebook Logo Click Performed
+01:43:42.051 SwappaWebSite.HomePageTest - Test Passed
+01:43:45.641 SwappaWebSite.HomePageTest - Access TrustPilot Frame Test is Processing
+01:43:46.801 SwappaPages.HomePage - Scroll to view trust Pilot frame
+01:43:46.827 SwappaPages.HomePage - Switched to new frame , index 0
+01:43:46.874 base.CommonAPI - Explicit wait for an element to be Clickable
+01:43:46.954 SwappaPages.HomePage - Right button of the slider click performed 1 time(es)
+01:43:47.006 SwappaPages.HomePage - Right button of the slider click performed 2 time(es)
+01:43:47.072 SwappaPages.HomePage - Left button of the slider click performed
+01:43:47.095 SwappaWebSite.HomePageTest - Test Passed
+01:43:47.734 base.CommonAPI -                      ------Tests Class Completed-----
+01:43:47.754 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:43:50.868 SwappaPages.AddToCartPage - ShoppingCart selected
+01:43:51.163 SwappaPages.AddToCartPage - Find a good deals selected
+01:43:55.366 SwappaPages.AddToCartPage - ShoppingCart selected
+01:43:55.646 SwappaPages.AddToCartPage - Closing ShoppingCart selected
+01:43:55.848 base.CommonAPI - Screenshot captured
+01:43:56.447 base.CommonAPI -                      ------Tests Class Completed-----
+01:43:56.461 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:43:59.624 SwappaWebSite.CamerasTest - Test ClickOnCamerasThenAllCamerasThenSellBtn in process
+01:44:05.156 base.CommonAPI - Screenshot captured
+01:44:08.785 SwappaWebSite.CamerasTest - Test HoverOverAllCamerasAndBrands in process
+01:44:14.022 base.CommonAPI - Screenshot captured
+01:44:17.760 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+01:44:23.240 base.CommonAPI - Screenshot captured
+01:44:26.808 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+01:44:32.342 base.CommonAPI - Screenshot captured
+01:44:35.936 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnCanonUnderCamerasMenu in process
+01:44:41.447 base.CommonAPI - Screenshot captured
+01:44:45.253 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnDSLRCamerasUnderCamerasMenu in process
+01:44:50.751 base.CommonAPI - Screenshot captured
+01:44:54.238 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnLensesUnderCamerasMenu in process
+01:44:59.703 base.CommonAPI - Screenshot captured
+01:45:03.308 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+01:45:08.776 base.CommonAPI - Screenshot captured
+01:45:20.439 SwappaWebSite.CamerasTest - Test HoverOverAndClickOnActionCamerasUnderCamerasMenu in process
+01:45:25.924 base.CommonAPI - Screenshot captured
+01:45:29.441 SwappaWebSite.CamerasTest - Test HoverOverCameraAndClickOnAllCameras in process
+01:45:34.922 base.CommonAPI - Screenshot captured
+01:45:43.790 base.CommonAPI - Screenshot captured
+01:45:47.353 SwappaWebSite.CamerasTest - Test HoverOverShopDSLR in process
+01:45:52.584 base.CommonAPI - Screenshot captured
+01:45:56.122 SwappaWebSite.CamerasTest - Test HoverOverShopMirrorLess Cameras in process
+01:46:01.351 base.CommonAPI - Screenshot captured
+01:46:05.012 SwappaWebSite.CamerasTest - Test HoverOverShopMoreLenses in process
+01:46:10.278 base.CommonAPI - Screenshot captured
+01:46:10.937 base.CommonAPI -                      ------Tests Class Completed-----
+01:46:11.015 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:46:14.004 SwappaWebSite.HelpSectionTest - Email Help Swappa Test Is Processing
+01:46:14.063 SwappaPages.HelpSectionPage - Help Clicked
+01:46:14.682 base.CommonAPI - Explicit wait for an element to be visible
+01:46:14.767 SwappaPages.HelpSectionPage - Email Help Clicked
+01:46:14.797 SwappaWebSite.HelpSectionTest - Assertion Passed
+01:46:14.798 SwappaWebSite.HelpSectionTest - Test Passed
+01:46:18.651 SwappaWebSite.HelpSectionTest - Send Support Ticket Test Is Processing
+01:46:18.717 SwappaPages.HelpSectionPage - Help Clicked
+01:46:19.365 base.CommonAPI - Explicit wait for an element to be visible
+01:46:20.243 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+01:46:20.308 base.CommonAPI - Explicit wait for an element to be visible
+01:46:20.309 SwappaPages.HelpSectionPage - Email is Visible
+01:46:20.465 SwappaPages.HelpSectionPage - Email Entered
+01:46:20.573 SwappaPages.HelpSectionPage - Option From DropDown Selected
+01:46:20.686 SwappaPages.HelpSectionPage - Message For Support Selected
+01:46:20.713 SwappaWebSite.HelpSectionTest - Test Passed
+01:46:24.421 SwappaWebSite.HelpSectionTest - Submit Help Request Test Is Processing
+01:46:24.489 SwappaPages.HelpSectionPage - Help Clicked
+01:46:25.124 base.CommonAPI - Explicit wait for an element to be visible
+01:46:26.006 SwappaPages.HelpSectionPage -  Submit Help Request Clicked
+01:46:26.067 SwappaWebSite.HelpSectionTest - Test Passed
+01:46:26.710 base.CommonAPI -                      ------Tests Class Completed-----
+01:46:26.718 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:46:29.740 SwappaPages.LoginPage - Click Menu Performed
+01:46:29.983 SwappaPages.LoginPage - Click Login Button From Drop Down Menu Performed
+01:46:29.983 SwappaWebSite.LoginPageTest - Test Passed
+01:46:33.887 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:46:34.115 SwappaPages.LoginPage - Email And Password Entered
+01:46:34.312 SwappaPages.LoginPage - Click Login Performed
+01:46:34.315 SwappaPages.LoginPage - New Window Opened
+01:46:39.640 base.CommonAPI - Test Passed
+01:46:43.540 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:46:43.669 SwappaPages.LoginPage - Email And Password Entered
+01:46:43.741 SwappaPages.LoginPage - Click Login Performed
+01:46:43.761 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+01:46:43.761 base.CommonAPI - Test Passed
+01:46:47.518 SwappaWebSite.LoginPageTest - Testing Login Functionality is Processing
+01:46:47.568 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:46:47.751 SwappaPages.LoginPage - Email And Password Entered
+01:46:47.892 SwappaPages.LoginPage - Click Login Performed
+01:46:47.893 SwappaPages.LoginPage - New Window Opened
+01:46:53.500 base.CommonAPI - Test Passed
+01:46:57.471 SwappaWebSite.LoginPageTest -      Testing Login Functionality With Only 3 Characters In Password is Processing
+01:46:57.524 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:46:57.690 SwappaPages.LoginPage - Email And Password Entered
+01:46:57.735 SwappaPages.LoginPage - Click Login Performed
+01:46:57.771 base.CommonAPI - Test Passed
+01:47:01.413 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:47:01.868 SwappaPages.LoginPage - Click On Forgot Password Performed
+01:47:01.877 base.CommonAPI - Page Title is "Password Reset - Swappa"
+01:47:01.877 base.CommonAPI - Test Passed
+01:47:05.747 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:47:06.928 SwappaPages.LoginPage - Click On Login Page Performed
+01:47:06.930 SwappaPages.LoginPage - New Window Opened
+01:47:06.936 base.CommonAPI - Page Title is "Login - Swappa"
+01:47:06.936 base.CommonAPI - Test Passed
+01:47:10.974 SwappaPages.LoginPage - Click On Login Logo In Home Page Performed
+01:47:11.594 base.CommonAPI - Explicit wait for an element to be visible
+01:47:11.770 SwappaPages.LoginPage - Hover Over Google Logo Performed
+01:47:11.795 base.CommonAPI - Test Passed
+01:47:12.422 base.CommonAPI -                      ------Tests Class Completed-----
+01:47:12.426 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:47:16.160 base.CommonAPI - Test Passed
+01:47:25.396 base.CommonAPI - Screenshot captured
+01:47:25.994 base.CommonAPI -                      ------Tests Class Completed-----
+01:47:26.005 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:47:29.229 SwappaPages.PhonesPage - Hover over Phones Performed
+01:47:32.848 SwappaPages.PhonesPage - Hover over Phones Performed
+01:47:33.439 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:47:34.481 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+01:47:35.381 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+01:47:39.288 SwappaPages.PhonesPage - Hover over Phones Performed
+01:47:39.851 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:47:40.930 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+01:47:42.135 base.CommonAPI - Screenshot captured
+01:47:46.138 SwappaPages.PhonesPage - Hover over Phones Performed
+01:47:47.049 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:47:48.157 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+01:47:49.420 base.CommonAPI - Screenshot captured
+01:47:53.695 SwappaPages.PhonesPage - Hover over Phones Performed
+01:47:54.311 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:47:55.369 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+01:47:56.601 base.CommonAPI - Screenshot captured
+01:48:00.824 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:01.587 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:48:02.648 SwappaPages.PhonesPage - Scroll to view More Unlocked Google Performed
+01:48:06.485 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:08.895 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:48:09.958 SwappaPages.PhonesPage - Scroll to view More Unlocked One Plus Performed
+01:48:14.146 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:14.943 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:48:16.023 SwappaPages.PhonesPage - Scroll to view More Unlocked Samsung Performed
+01:48:20.127 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:20.762 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:48:21.799 SwappaPages.PhonesPage - Scroll to view More Unlocked Apple Performed
+01:48:23.029 base.CommonAPI - Screenshot captured
+01:48:26.769 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:27.370 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:48:28.440 SwappaPages.PhonesPage - Scroll to view all unlocked Phones Performed
+01:48:29.210 SwappaPages.PhonesPage - Click on all unlocked phones button Performed
+01:48:32.848 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:33.308 SwappaPages.PhonesPage - Click on google in dropdown Performed
+01:48:37.001 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:37.680 SwappaPages.PhonesPage - Click on Apple in dropdown menu Performed
+01:48:41.579 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:42.135 SwappaPages.PhonesPage - Click on  Samsung in dropdown menu Performed
+01:48:46.249 SwappaPages.PhonesPage - Hover over Phones Performed
+01:48:46.832 SwappaPages.PhonesPage - Click on unlocked in dropdown Performed
+01:48:47.547 base.CommonAPI -                      ------Tests Class Completed-----
+01:48:47.564 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:48:50.879 SwappaPages.SearchBarPage - Click search logo Performed
+01:48:51.545 SwappaPages.SearchBarPage - Clear search Performed
+01:48:51.595 SwappaPages.SearchBarPage - type ps5 in search field and enter success
+01:48:51.621 SwappaPages.SearchBarPage - Clear search Performed
+01:48:51.680 SwappaPages.SearchBarPage - type keyboard in search field and enter success
+01:48:51.708 SwappaPages.SearchBarPage - Clear search Performed
+01:48:51.770 SwappaPages.SearchBarPage - type mouse in search field and enter success
+01:48:51.804 SwappaPages.SearchBarPage - Clear search Performed
+01:48:51.857 SwappaPages.SearchBarPage - type monitor in search field and enter success
+01:48:51.887 SwappaPages.SearchBarPage - Clear search Performed
+01:48:51.922 SwappaPages.SearchBarPage - type xbox in search field and enter success
+01:48:55.529 SwappaPages.SearchBarPage - Click search logo Performed
+01:48:55.647 SwappaPages.SearchBarPage - type search  Performed
+01:48:55.683 SwappaPages.SearchBarPage - Clear search Performed
+01:48:55.725 SwappaPages.SearchBarPage - type search  Performed
+01:48:55.741 SwappaPages.SearchBarPage - Clear search Performed
+01:48:55.783 SwappaPages.SearchBarPage - type search  Performed
+01:48:55.804 SwappaPages.SearchBarPage - Clear search Performed
+01:48:55.847 SwappaPages.SearchBarPage - type search  Performed
+01:48:56.468 base.CommonAPI -                      ------Tests Class Completed-----
+01:48:56.470 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:48:59.899 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:48:59.953 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:00.763 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+01:49:00.989 SwappaPages.SellPage - Type Iphone 13 Pro in sell SearchBar Performed
+01:49:01.746 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+01:49:06.135 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:06.217 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:07.710 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+01:49:07.919 SwappaPages.SellPage - Type MacBook Pro 10 in sell SearchBar Performed
+01:49:08.794 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+01:49:12.909 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:12.969 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:13.987 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+01:49:14.189 SwappaPages.SellPage - Type samsung galaxy s30 in sell SearchBar Performed
+01:49:14.922 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+01:49:18.699 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:18.752 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:19.793 SwappaPages.SellPage - Click Start Selling Button Performed
+01:49:23.555 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:23.604 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:24.509 SwappaPages.SellPage - Click Fair Fees Button Performed
+01:49:28.283 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:28.321 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:28.916 SwappaPages.SellPage - Click Seller FAQ Button Performed
+01:49:32.884 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:32.947 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:33.686 SwappaPages.SellPage - Hover Over Start Selling Button Performed
+01:49:37.787 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:37.841 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:38.519 SwappaPages.SellPage - Click How To Sell Button Performed
+01:49:43.845 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:43.912 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:44.938 SwappaPages.SellPage - Scroll To View My Camera Or Lens Button Performed
+01:49:48.787 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:48.842 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:49.874 SwappaPages.SellPage - Scroll To view  Sell My Camera Or Lens Button Performed
+01:49:50.366 SwappaPages.SellPage - Click Sell My Camera Or Lens Button Performed
+01:49:54.356 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:49:54.427 SwappaPages.SellPage - Click On Sell Button Performed
+01:49:55.647 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+01:49:55.825 SwappaPages.SellPage - Type samsung s22 in sell SearchBar Performed
+01:49:56.467 SwappaPages.SellPage - Click Sell in Search Bar Button Performed
+01:50:00.311 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:00.382 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:00.499 SwappaPages.SellPage - Click Close Sell Bar Button Performed
+01:50:04.762 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:04.820 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:05.984 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+01:50:09.820 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:09.869 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:11.608 SwappaPages.SellPage - Click Sell My MacBook Button Performed
+01:50:15.644 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:15.683 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:16.397 SwappaPages.SellPage - Click Sell My Computer Button Performed
+01:50:20.724 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:20.773 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:23.327 SwappaPages.SellPage - Click Sell My Tablet Or Ipad Button Performed
+01:50:27.653 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:27.704 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:28.348 SwappaPages.SellPage - Click Sell My Watch OR Wearable Button Performed
+01:50:32.340 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:32.404 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:32.963 SwappaPages.SellPage - Click Sell MyPhone Button Performed
+01:50:36.942 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:36.997 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:37.879 SwappaPages.SellPage - Click Sell My VideoGame Console Button Performed
+01:50:41.799 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:41.865 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:42.541 SwappaPages.SellPage - Click Sell My Iphone Button Performed
+01:50:46.464 SwappaPages.SellPage - Hover Over Sell Button Performed
+01:50:46.516 SwappaPages.SellPage - Click On Sell Button Performed
+01:50:47.195 base.CommonAPI -                      ------Tests Class Completed-----
+01:50:47.203 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:50:51.130 base.CommonAPI - Explicit wait for an element to be visible
+01:50:55.743 base.CommonAPI - Explicit wait for an element to be visible
+01:50:55.794 base.CommonAPI - Explicit wait for an element to be visible
+01:51:00.802 base.CommonAPI -                      ------Tests Class Completed-----
+01:51:00.808 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:51:31.039 base.CommonAPI - Explicit wait for an element to be visible
+01:51:31.715 base.CommonAPI -                      ------Tests Class Completed-----
+01:51:31.720 base.CommonAPI -                    -----New Class Tests Initiated-----
+01:51:35.760 SwappaPages.TabletsPage - Accessed All Tablets Section
+01:51:36.309 base.CommonAPI - Back to previous Page
+01:51:36.310 SwappaWebSite.TabletsPageTest - Test completed
+01:51:41.677 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+01:51:41.708 SwappaWebSite.TabletsPageTest - Test completed
+01:51:46.323 SwappaPages.TabletsPage - Accessed Ipad Section
+01:51:50.919 SwappaPages.TabletsPage - Accessed Samsung Section
+01:51:51.073 SwappaWebSite.TabletsPageTest - Test completed
+01:51:55.594 SwappaPages.TabletsPage - Accessed Windows Section
+01:51:56.130 base.CommonAPI - Back to previous Page
+01:51:56.130 SwappaWebSite.TabletsPageTest - Test completed
+01:52:00.558 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+01:52:01.286 SwappaPages.TabletsPage - Option Apple Is Selected 
+01:52:02.093 SwappaPages.TabletsPage - Option Amazon Alexa Is Selected 
+01:52:02.716 SwappaPages.TabletsPage - Option Reviews Is Selected 
+01:52:02.749 SwappaWebSite.TabletsPageTest - Test completed
+01:52:07.879 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+01:52:08.727 SwappaPages.TabletsPage - Option Samsung Is Selected 
+01:52:09.294 SwappaPages.TabletsPage - Option Blackberry Is Selected 
+01:52:09.886 SwappaPages.TabletsPage - Option Reviews Is Selected 
+01:52:09.939 SwappaWebSite.TabletsPageTest - Test completed
+01:52:14.418 SwappaPages.TabletsPage - Accessed Amazon Kindle Section
+01:52:15.177 SwappaPages.TabletsPage - Option Apple Is Selected 
+01:52:15.793 SwappaPages.TabletsPage - Option iOS Is Selected 
+01:52:16.463 SwappaPages.TabletsPage - Option Price (Low) Is Selected 
+01:52:16.528 SwappaWebSite.TabletsPageTest - Test completed
+01:52:17.173 base.CommonAPI -                      ------Tests Class Completed-----

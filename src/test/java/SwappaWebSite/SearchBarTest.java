@@ -2,6 +2,7 @@ package SwappaWebSite;
 
 import SwappaPages.SearchBarPage;
 import base.CommonAPI;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import utility.ExcelReader;
 import utility.Utility;
@@ -24,6 +25,7 @@ public class SearchBarTest extends CommonAPI {
         searchBarPage.TypeInSearchBar("samsung galaxy s21");
         searchBarPage.ClearSearchBar();
         searchBarPage.TypeInSearchBar("$$$$$$$$$$$$$$$$$$$");
+        Assert.assertEquals(getPageTitle(),"Buy and Sell Used Phones, Laptops and More - Swappa");
 
     }
 
@@ -32,7 +34,7 @@ public class SearchBarTest extends CommonAPI {
 
 
 
-   // @Test
+    @Test
     public  void EnterItemsFromExcel(){
 
         SearchBarPage searchBarPage = new SearchBarPage(getDriver());
@@ -44,11 +46,9 @@ public class SearchBarTest extends CommonAPI {
         for (String item: items) {
             searchBarPage.ClearSearchBar();
             searchBarPage.SearchElementAndEnter(item);
-
-
-
         }
 
+        Assert.assertEquals(getPageTitle(),"Buy and Sell Used Phones, Laptops and More - Swappa");
 
         }
 

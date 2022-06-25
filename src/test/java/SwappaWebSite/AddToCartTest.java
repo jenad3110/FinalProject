@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class AddToCartTest extends CommonAPI {
 
- //   @Test
+     @Test
     public void FindAGoodDealBtnInCartSectionTest(){
 
         AddToCartPage addToCartPage = new AddToCartPage(getDriver());
@@ -23,7 +23,7 @@ public class AddToCartTest extends CommonAPI {
 
         AddToCartPage addToCartPage = new AddToCartPage(getDriver());
         addToCartPage.ClosingCartPage();
-        Assert.assertFalse(addToCartPage.ClosingButtonIsClickable());
+        Assert.assertTrue(addToCartPage.ClosingButtonIsClickable());
         Assert.assertEquals(getPageTitle(),"iPhones For Sale - Swappa");
 
 

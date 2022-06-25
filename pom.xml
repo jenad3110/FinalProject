@@ -107,7 +107,7 @@
                 <version>2.22.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>..\FinalFramework\src\test\resources\RunTest.xml</suiteXmlFile>
+                        <suiteXmlFile>..\FinalFramework\src\test\resources\SwappaWebSite.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

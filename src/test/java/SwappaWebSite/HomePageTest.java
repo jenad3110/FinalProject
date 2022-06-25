@@ -15,7 +15,7 @@ public class HomePageTest extends CommonAPI {
 
     public void AccessArticlesMentionningSwappaAtBottomOfThePageTest(){
 
-       LOG.info("Access Articles Mentionning Swappa Test is Processing");
+       LOG.info("Access Articles Mentioning Swappa Test is Processing");
 
         HomePage homePage = new HomePage(getDriver());
 
@@ -42,7 +42,7 @@ public class HomePageTest extends CommonAPI {
     }
 
     @Test
-    public void BottomLogoTest(){
+    public void BottomSwappaLogoTest(){
 
         LOG.info("Access Swappa Log At The Bottom Of The Page is Processing");
 

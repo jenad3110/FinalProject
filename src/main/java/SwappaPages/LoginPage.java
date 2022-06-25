@@ -20,10 +20,6 @@ public class LoginPage extends CommonAPI {
     private final Logger LOG = LoggerFactory.getLogger(LoginPage.class);
 
 
-   // @FindBy(css = "#slide_menu > div.offcanvas-body > div.row.row-cols-2.mb-3 > div:nth-child(1) > a")
-    //WebElement loginInMenuBtn;
-    //#primaryNav > nav > div > div > div:nth-child(3) > ul > li:nth-child(1) > a > i
-
     @FindBy(css = "#primaryNav > nav > div > div > div:nth-child(3) > ul > li:nth-child(1) > a > i")
     WebElement loginLogoInHomePage;
 
@@ -71,15 +67,10 @@ public class LoginPage extends CommonAPI {
         click(LoginBtnFromMenuDropDown);
         LOG.info("Click Login Button From Drop Down Menu Performed");
 
-
-
     }
 
 
-    //-----------------------------------------------------------------------------------------------//
-
     public void ClickOnLoginLoGoInHomePage() {click(loginLogoInHomePage);LOG.info("Click On Login Logo In Home Page Performed");}
-
 
     public void EnterEmailAndPassword(String Email,String Pass){
 
@@ -94,10 +85,7 @@ public class LoginPage extends CommonAPI {
         LOG.info("Click Login Performed");
     }
 
-    public String GetErrorLogintext(){
-
-        return getElementText(ErrorUsernameOfPass);
-    }
+    public String GetErrorLogintext(){return getElementText(ErrorUsernameOfPass);}
 
 
     public void HoverOverGoogleLogo(WebDriver driver)

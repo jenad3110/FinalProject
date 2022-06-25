@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class PhonesPageTest extends CommonAPI {
 
 
-  //@Test
+    @Test
     public void HoverOverPhones() {
 
         PhonesPage phonesPage = new PhonesPage(getDriver());
@@ -18,7 +18,7 @@ public class PhonesPageTest extends CommonAPI {
 
     }
 
-    //@Test
+    @Test
     public void SelectUnlockedPhonesInSubMenu() {
 
         PhonesPage phonesPage = new PhonesPage(getDriver());
@@ -28,7 +28,7 @@ public class PhonesPageTest extends CommonAPI {
 
     }
 
-    //@Test
+    @Test
     public void SelectIphoneInSubMenu() {
 
         PhonesPage phonesPage = new PhonesPage(getDriver());
@@ -39,7 +39,7 @@ public class PhonesPageTest extends CommonAPI {
     }
 
 
-    //@Test
+    @Test
     public void SelectGoogleInSubMenu() {
 
         PhonesPage phonesPage = new PhonesPage(getDriver());
@@ -51,7 +51,7 @@ public class PhonesPageTest extends CommonAPI {
     }
 
 
-   // @Test
+   @Test
     public void SelectSamsungInSubMenu() {
 
         PhonesPage phonesPage = new PhonesPage(getDriver());
@@ -62,7 +62,7 @@ public class PhonesPageTest extends CommonAPI {
     }
 
 
-   // @Test
+    @Test
     public void SelectAllUnlockedPhonesInUnlockedSubMenu(){
 
 
@@ -78,7 +78,7 @@ public class PhonesPageTest extends CommonAPI {
     }
 
 
-    //@Test
+    @Test
     public void ScrollToViewAndClickOnUnlockedApple(){
 
 
@@ -91,7 +91,7 @@ public class PhonesPageTest extends CommonAPI {
 
     }
 
-    //@Test
+    @Test
     public void ScrollDownToUnlockedGoogle(){
 
 
@@ -104,7 +104,7 @@ public class PhonesPageTest extends CommonAPI {
     }
 
 
-    //@Test
+    @Test
     public void ScrollDownToUnlockedOnePlus(){
 
 
@@ -116,7 +116,7 @@ public class PhonesPageTest extends CommonAPI {
 
     }
 
-    //@Test
+    @Test
     public void ScrollDownToUnlockedSamsung(){
 
 
@@ -129,7 +129,7 @@ public class PhonesPageTest extends CommonAPI {
     }
 
 
-   // @Test
+    @Test
     public void ScrollDownAndClickOnMoreUnlockedOnePlus(){
 
 
@@ -142,7 +142,7 @@ public class PhonesPageTest extends CommonAPI {
     }
 
 
-    //@Test
+    @Test
     public void ScrollDownAndClickOnMoreUnlockedSamsung(){
 
 
@@ -156,7 +156,7 @@ public class PhonesPageTest extends CommonAPI {
 
 
 
-   // @Test
+    @Test
     public void ScrollDownAndClickOnMoreUnlockedGoogle(){
 
 

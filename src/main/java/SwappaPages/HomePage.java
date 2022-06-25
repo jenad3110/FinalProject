@@ -143,24 +143,14 @@ public class HomePage extends CommonAPI {
 
 
     //----------------------------------------------------------------------------------------------------------------------------------//
-    public void BottomLogo(){click(BottomLogo);}
-
-
-
 
     //reusable method
 
 
 
 
-    public void HoverOverCameras(WebDriver driver){hoverOver(driver,Cameras);}
-    public void HoverOverVideoGames(WebDriver driver){hoverOver(driver,VideoGames);}
-    public void HoverOvertablets(WebDriver driver){hoverOver(driver,Tablets);}
     public void HoverOverWatches(WebDriver driver){hoverOver(driver,Watches);}
-    public void HoverOverComputers(WebDriver driver){hoverOver(driver,Computers);}
-    public void HoverOverMacbooks(WebDriver driver){hoverOver(driver,Macbooks);}
-    public void HoverOverPhones(WebDriver driver){hoverOver(driver,Phones);}
-    public void HoverOverIphones(WebDriver driver){hoverOver(driver,Iphones);}
+
 
 
     public void HoverOverMenu(WebDriver driver) {
@@ -177,29 +167,6 @@ public class HomePage extends CommonAPI {
 
     }
 
-
-
-
-
-
-
-    public void ClickOnSwappaLocal() {
-
-        click(SwappaLocalBtn);
-
-    }
-
-
-
-
-
-    //call the method to scroll
-    public void ScrollToViewShopPhonesByCarrier(WebDriver driver) {
-
-        ScrollToView(ShopPhonesByCarrier, driver);
-
-
-    }
 
 
 

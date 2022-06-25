@@ -20,6 +20,19 @@ public class TopMenuHomePage extends CommonAPI {
     WebElement CloseShoppingCart;
     @FindBy(css = "#primaryNav > nav > div > div > div:nth-child(3) > ul > li:nth-child(2) > a > i")
     WebElement ShoppingCart;
+
+
+    @FindBy(css = "#primaryNav > nav > div > div > div:nth-child(3) > ul > li:nth-child(3) > a > i")
+    WebElement SearchLogo;
+    @FindBy(css = "#slide_search > div.offcanvas-header > button")
+    WebElement CloseSearchBtn;
+
+    @FindBy(css = "#primaryNav > nav > div > div > div:nth-child(3) > ul > li:nth-child(1) > a > i")
+    WebElement Loginbtn;
+    @FindBy(css = "#slide_login > div.offcanvas-header > button")
+    WebElement CloseLogin;
+
+
     public void ClickCloseShoppingCart() {click(CloseShoppingCart);}
     public void HoverOverShoppingCart(WebDriver driver) {hoverOver(driver, ShoppingCart);}
     public void ClickShoppingCart() {click(ShoppingCart);}
@@ -29,19 +42,12 @@ public class TopMenuHomePage extends CommonAPI {
 
 
 
-    @FindBy(css = "#primaryNav > nav > div > div > div:nth-child(3) > ul > li:nth-child(3) > a > i")
-    WebElement SearchLogo;
-    @FindBy(css = "#slide_search > div.offcanvas-header > button")
-    WebElement CloseSearchBtn;
     public void HoverOverSearch(WebDriver driver) {hoverOver(driver, SearchLogo);}
     public void ClickCloseSearchButton(){click(CloseSearchBtn);}
     public void ClickSearchButton(){click(SearchLogo);}
 
 
-    @FindBy(css = "#primaryNav > nav > div > div > div:nth-child(3) > ul > li:nth-child(1) > a > i")
-    WebElement Loginbtn;
-    @FindBy(css = "#slide_login > div.offcanvas-header > button")
-    WebElement CloseLogin;
+
     public void HoverOverLogin(WebDriver driver) {hoverOver(driver, Loginbtn);}
     public void ClickLogin() {click(Loginbtn);}
     public void ClickCloseLoginButton(){click(CloseLogin);}

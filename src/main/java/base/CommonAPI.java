@@ -134,19 +134,7 @@ public class CommonAPI {
             }
         }
     }
-/*
-    public void getCloudDriver(String envName, String envUsername, String envAccessKey, String os, String osVersion, String browser, String browserVersion) throws MalformedURLException {
-        DesiredCapabilities cap = new DesiredCapabilities();
-        cap.setCapability("os", os);
-        cap.setCapability("os_version", osVersion);
-        cap.setCapability("browser", browser);
-        cap.setCapability("browser_version", browserVersion);
-        if (envName.equalsIgnoreCase("saucelabs")) {
-            driver = new RemoteWebDriver(new URL("http://" + envUsername + ":" + envAccessKey + "@ondemand.saucelabs.com:80/wd/hub"), cap);
-        } else if (envName.equalsIgnoreCase("browserstack")) {
-            driver = new RemoteWebDriver(new URL("http://" + envUsername + ":" + envAccessKey + "@hub-cloud.browserstack.com:80/wd/hub"), cap);
-        }
-    }*/
+
 
 
     public void getCloudDriver(String envName, String envUsername, String envAccessKey, String os, String osVersion, String browser, String browserVersion) throws MalformedURLException {
@@ -186,31 +174,6 @@ public class CommonAPI {
 
 
 
-
-
-
-
-
-//
-//    @Parameters({"useCloudEnv", "envName", "os", "osVersion", "browserName", "browserVersion", "url"})
-//    @BeforeMethod
-//    public void setUp(@Optional("false") boolean useCloudEnv, @Optional("browserstack") String envName, @Optional("windows") String os,
-//                      @Optional("10") String osVersion, @Optional("chrome") String browserName, @Optional("99") String browserVersion,
-//                      @Optional("https://www.google.com") String url) throws MalformedURLException {
-//        if (useCloudEnv) {
-//            if (envName.equalsIgnoreCase("browserstack")) {
-//                getCloudDriver(envName, "mohamedjenad_0VwEXS", "6FFmnapqa8HoCeeEEtwB", os, osVersion, browserName, browserVersion);
-//            } else if (envName.equalsIgnoreCase("saucelabs")) {
-//                getCloudDriver(envName, "", "", os, osVersion, browserName, browserVersion);
-//            }
-//        } else {
-//            getLocalDriver(browserName, os);
-//        }
-//
-//        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-//        driver.manage().window().maximize();
-//        driver.get(url);
-//    }
 
 
 //    @AfterMethod

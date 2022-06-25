@@ -159,6 +159,20 @@ public class CamerasPage extends CommonAPI {
         @FindBy(css = "#main_container > section.section_main > div:nth-child(16) > div > div.col-xs-9.col-md-10 > h2")
         WebElement CamerasbrandsSV;
 
+        @FindBy(css = "#brand_buttons > div:nth-child(6) > a > img")
+        WebElement SonyLogo;
+        @FindBy(css = "#brand_buttons > div:nth-child(5) > a > img")
+        WebElement PanasonicLogo;
+        @FindBy(css = "#brand_buttons > div:nth-child(4) > a > img")
+        WebElement NikonLogo;
+        @FindBy(css = "#brand_buttons > div:nth-child(3) > a > img")
+        WebElement GoProLogo;
+        @FindBy(css = "#brand_buttons > div:nth-child(2) > a > img")
+        WebElement FujiFilmLogo;
+        @FindBy(css = "#brand_buttons > div:nth-child(1) > a > img")
+        WebElement CanonLogo;
+
+
 
         public void ClickOnSellBtnInCamerasPage() {
                 click(SellBtnInCamerasPage);
@@ -235,17 +249,6 @@ public class CamerasPage extends CommonAPI {
                 LOG.info("Scroll To view All Cameras and Brands Success");
         }
 
-        @FindBy(css = "#filters > ul:nth-child(10) > li:nth-child(1) > label > input[type=radio]")
-        WebElement SortByRadiobtn;
-
-
-        public String GetTextForAssertions2() {
-                return getElementText(TextOnSellCamerasPage);
-        }
-
-        public String GetTextForAssertions3() {
-                return getElementText(TextOnSellCamerasPage);
-        }
         //----------------------------------------------------------------------------------------------------------//
 
 
@@ -257,47 +260,37 @@ public class CamerasPage extends CommonAPI {
 
         public void ClickOnMirrorlessBtn() {click(Mirrorless);}
 
-        @FindBy(css = "#brand_buttons > div:nth-child(6) > a > img")
-        WebElement SonyLogo;
-        @FindBy(css = "#brand_buttons > div:nth-child(5) > a > img")
-        WebElement PanasonicLogo;
-        @FindBy(css = "#brand_buttons > div:nth-child(4) > a > img")
-        WebElement NikonLogo;
-        @FindBy(css = "#brand_buttons > div:nth-child(3) > a > img")
-        WebElement GoProLogo;
-        @FindBy(css = "#brand_buttons > div:nth-child(2) > a > img")
-        WebElement FujiFilmLogo;
-        @FindBy(css = "#brand_buttons > div:nth-child(1) > a > img")
-        WebElement CanonLogo;
 
         public void HoverOverSony(WebDriver driver) {
                 hoverOver(driver, SonyLogo);
         }
+        public boolean SonyLogoIsInteractable(){ return isInteractable(SonyLogo);}
 
         public void HoverOverPanasonic(WebDriver driver) {
                 hoverOver(driver, PanasonicLogo);
         }
+        public boolean PanasonicLogoIsInteractable(){ return isInteractable(PanasonicLogo);}
 
         public void HoverOverNikon(WebDriver driver) {
                 hoverOver(driver, NikonLogo);
         }
+        public boolean NikonLogoIsInteractable(){ return isInteractable(NikonLogo);}
 
         public void HoverOverGoPro(WebDriver driver) {
                 hoverOver(driver, GoProLogo);
         }
+        public boolean GoProLogoIsInteractable(){ return isInteractable(GoProLogo);}
 
         public void HoverOverFujiFilm(WebDriver driver) {
                 hoverOver(driver, FujiFilmLogo);
         }
+        public boolean FujiFilmLogoIsInteractable(){ return isInteractable(FujiFilmLogo);}
 
         public void HoverOverCanon(WebDriver driver) {
                 hoverOver(driver, CanonLogo);
         }
+        public boolean CanonLogoIsInteractable(){ return isInteractable(CanonLogo);}
 
-        public void ClickOnRadioButtonInSortBy() {
-                click(SortByRadiobtn);
-                LOG.info("Radio Button ");
-        }
 
         public void CLickOnAllCamerasAndbrands() {
                 click(AllCamerasAndBrands);
@@ -319,11 +312,6 @@ public class CamerasPage extends CommonAPI {
                 ClickOnAllCamerasButton();
                 LOG.info("Access All Cameras Success");
         }
-
-
-
-        public void WaitForDLSRButton(WebDriver driver){waitForAnElementTobeClickable(ShopDSLR,driver);}
-
 
 
 

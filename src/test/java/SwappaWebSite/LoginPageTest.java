@@ -11,7 +11,7 @@ public class LoginPageTest extends CommonAPI {
 
     private final Logger LOG = LoggerFactory.getLogger(LoginPageTest.class);
 
-       // @Test
+        @Test
         public void TestingLoginUsingPasswordWithOnly3Characters(){
 
             LOG.info("     Testing Login Functionality With Only 3 Characters In Password is Processing");
@@ -29,7 +29,7 @@ public class LoginPageTest extends CommonAPI {
 
 
 
-        //@Test
+        @Test
         public void LoginUsingEmptyValueInPassword(){
 
             LoginPage loginPage = new LoginPage(getDriver());
@@ -47,7 +47,7 @@ public class LoginPageTest extends CommonAPI {
 
 
         }
-      //  @Test
+        @Test
         public void LoginUsingInvalidPassword(){
             LOG.info("Testing Login Functionality is Processing");
 
@@ -68,7 +68,7 @@ public class LoginPageTest extends CommonAPI {
 
         }
 
-       // @Test
+        @Test
         public void LoginUsing$$$InPassword(){
 
             LoginPage login = new LoginPage(getDriver());
@@ -88,7 +88,7 @@ public class LoginPageTest extends CommonAPI {
 
 
 
-       // @Test
+        @Test
         public void hoverOverLoginWithGoogleLogo(){
 
 
@@ -99,7 +99,7 @@ public class LoginPageTest extends CommonAPI {
 
         }
 
-        //@Test
+        @Test
         public void clickOnLoginPageBtnAtTheBottomOfTheLoginPage() {
             LoginPage loginPage = new LoginPage(getDriver());
             loginPage.ClickOnLoginPAgeAtBottomOfThePage();
@@ -125,7 +125,7 @@ public class LoginPageTest extends CommonAPI {
 
             }
 
-        //@Test
+        @Test
             public void ClickLoginFromDropDownMenu(){
 
             LoginPage loginPage = new LoginPage(getDriver());

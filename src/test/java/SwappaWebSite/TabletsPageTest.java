@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class TabletsPageTest extends CommonAPI {
     private final Logger LOG = LoggerFactory.getLogger(TabletsPageTest.class);
 
-    //@Test
+    @Test
     public void AccessIpadFromTabletmenu(){
 
         TabletsPage tabletspage = new TabletsPage(getDriver());
@@ -24,7 +24,7 @@ public class TabletsPageTest extends CommonAPI {
 
     }
 
-    //@Test
+    @Test
     public void AccessSamsungFromTabletMenu() {
 
         TabletsPage tabletspage = new TabletsPage(getDriver());
@@ -35,7 +35,7 @@ public class TabletsPageTest extends CommonAPI {
         LOG.info("Test completed");
     }
 
-    //@Test
+    @Test
     public void AccessAmazonKindleFromTabletMenu() {
 
         TabletsPage tabletspage = new TabletsPage(getDriver());
@@ -48,7 +48,7 @@ public class TabletsPageTest extends CommonAPI {
     }
 
 
-    //@Test
+    @Test
     public void AccessWindowsTabletsFromTabletMenu() {
 
         TabletsPage tabletspage = new TabletsPage(getDriver());
@@ -59,7 +59,7 @@ public class TabletsPageTest extends CommonAPI {
         GoBackToPreviousPage();
         LOG.info("Test completed");
     }
-   // @Test
+    @Test
     public void AccessAllTabletsFromTabletmenu() {
 
         TabletsPage tabletspage = new TabletsPage(getDriver());
@@ -70,7 +70,7 @@ public class TabletsPageTest extends CommonAPI {
         LOG.info("Test completed");
     }
 
-   // @Test
+    @Test
     public void SelectFromDropDownMenuInAmazonKindleSection() {
 
         TabletsPage tabletspage = new TabletsPage(getDriver());
@@ -86,7 +86,7 @@ public class TabletsPageTest extends CommonAPI {
     }
 
 
-    //@Test
+    @Test
     public void SelectFromDropDownMenuInAmazonKindleSectionSecondExample() {
 
         TabletsPage tabletspage = new TabletsPage(getDriver());

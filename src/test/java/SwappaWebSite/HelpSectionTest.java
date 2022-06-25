@@ -14,7 +14,7 @@ public class HelpSectionTest extends CommonAPI {
     private final Logger LOG = LoggerFactory.getLogger(AddToCartPage.class);
 
 
-    //@Test
+    @Test
     public void SubmitHelpRequest(){
 
         LOG.info("Submit Help Request Test Is Processing");
@@ -26,7 +26,7 @@ public class HelpSectionTest extends CommonAPI {
     }
 
 
-   // @Test
+   @Test
     public void EmailHelpSwappa(){
 
         LOG.info("Email Help Swappa Test Is Processing");

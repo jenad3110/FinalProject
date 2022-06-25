@@ -36,7 +36,7 @@ public class SearchBarPage extends CommonAPI {
     public void ClickSearchLogo(){click(SearchLogo);LOG.info("Click search logo Performed");}
     public void TypeInSearchBar(String element) {type(SearchBar, element);LOG.info("type search  Performed");}
     public void ClearSearchBar(){clear(SearchBar);LOG.info("Clear search Performed");}
-    public void CloseSearch(){clear(CloseTheSearchBar);LOG.info("Click search logo Performed");}
+
 
 
 
